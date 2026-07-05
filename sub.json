@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "remarks": "OrelVPN",
+  "outbounds": [
+    {
+      "type": "vless",
+      "tag": "🇺🇸 Америка",
+      "server": "178.159.94.55",
+      "server_port": 443,
+      "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
+      "network": "grpc",
+      "security": "reality",
+      "tls": {
+        "server_name": "maps.apple.com",
+        "fingerprint": "chrome"
+      },
+      "transport": {
+        "service_name": "your-custom-path"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮 Финляндия",
+      "server": "45.151.102.99",
+      "server_port": 9443,
+      "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
+      "network": "grpc",
+      "security": "reality",
+      "tls": {
+        "server_name": "maps.apple.com",
+        "fingerprint": "chrome"
+      },
+      "transport": {
+        "service_name": "your-custom-path"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇪🇺 Мобильный",
+      "server": "dns.pleiades.codes",
+      "server_port": 443,
+      "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
+      "network": "xhttp",
+      "security": "tls",
+      "tls": {
+        "server_name": "dns.pleiades.codes",
+        "fingerprint": "chrome"
+      },
+      "transport": {
+        "path": "/uploadfiles/"
+      }
+    }
+  ]
+}
