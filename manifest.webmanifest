@@ -1,0 +1,19 @@
+{
+  "name": "Орёл VPN",
+  "short_name": "Орёл VPN",
+  "description": "Быстрый, безопасный и стабильный VPN.",
+  "start_url": "/vpn-sub/",
+  "scope": "/vpn-sub/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
