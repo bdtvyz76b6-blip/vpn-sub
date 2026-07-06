@@ -1,225 +1,383 @@
 <!DOCTYPE html>
+
 <html lang="ru">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>🦅 Орёл VPN</title>
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial;
-      background: #0b0b14;
-      color: white;
-      text-align: center;
-      overflow-x: hidden;
-    }
+<meta charset="UTF-8">
 
-    /* LOADER */
-    #loader {
-      position: fixed;
-      inset: 0;
-      background: #0b0b14;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      z-index: 9999;
-    }
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    .spinner {
-      width: 60px;
-      height: 60px;
-      border: 4px solid rgba(255,255,255,0.2);
-      border-top: 4px solid #1e90ff;
-      border-radius: 50%;
-      animation: spin 1s linear infinite;
-    }
+<title>🦅 Орёл VPN</title>
 
-    @keyframes spin {
-      100% { transform: rotate(360deg); }
-    }
+<style>
 
-    .fade {
-      opacity: 0;
-      transition: 0.5s;
-    }
+body{
 
-    header {
-      padding: 20px;
-      font-size: 22px;
-      font-weight: bold;
-    }
+  margin:0;
 
-    .status {
-      margin-top: 10px;
-      font-size: 14px;
-      color: #aaa;
-    }
+  font-family:Arial;
 
-    .btn {
-      display: block;
-      margin: 10px auto;
-      width: 260px;
-      padding: 14px;
-      border-radius: 12px;
-      border: none;
-      cursor: pointer;
-      font-size: 16px;
-      transition: 0.2s;
-    }
+  background:#0a0a14;
 
-    .btn:active {
-      transform: scale(0.97);
-    }
+  color:white;
 
-    .connect {
-      background: #1e90ff;
-      color: white;
-    }
+  text-align:center;
 
-    .copy {
-      background: #2ecc71;
-      color: white;
-    }
+}
 
-    .server {
-      background: #1a1a2e;
-      margin: 10px auto;
-      width: 260px;
-      padding: 12px;
-      border-radius: 12px;
-      cursor: pointer;
-      transition: 0.2s;
-    }
+/* LOADER */
 
-    .server:hover {
-      transform: scale(1.03);
-    }
+#loader{
 
-    .active {
-      border: 2px solid #1e90ff;
-    }
+  position:fixed;
 
-    /* CONNECTING ANIMATION */
-    #connecting {
-      display: none;
-      margin-top: 20px;
-    }
+  inset:0;
 
-    .bar {
-      width: 200px;
-      height: 6px;
-      background: #222;
-      margin: 10px auto;
-      border-radius: 10px;
-      overflow: hidden;
-    }
+  background:#0a0a14;
 
-    .progress {
-      width: 0%;
-      height: 100%;
-      background: #1e90ff;
-      animation: load 2s forwards;
-    }
+  display:flex;
 
-    @keyframes load {
-      to { width: 100%; }
-    }
+  flex-direction:column;
 
-    #toast {
-      position: fixed;
-      bottom: 20px;
-      left: 50%;
-      transform: translateX(-50%);
-      background: rgba(0,0,0,0.85);
-      padding: 10px 16px;
-      border-radius: 10px;
-      display: none;
-    }
-  </style>
+  justify-content:center;
+
+  align-items:center;
+
+  z-index:9999;
+
+}
+
+.spinner{
+
+  width:60px;
+
+  height:60px;
+
+  border:4px solid #222;
+
+  border-top:4px solid #1e90ff;
+
+  border-radius:50%;
+
+  animation:spin 1s linear infinite;
+
+}
+
+@keyframes spin{
+
+  100%{transform:rotate(360deg);}
+
+}
+
+.fade{opacity:0;transition:.5s}
+
+/* HEADER */
+
+header{
+
+  padding:20px;
+
+  font-size:22px;
+
+  font-weight:bold;
+
+}
+
+.status{
+
+  color:#aaa;
+
+  font-size:14px;
+
+}
+
+/* BUTTONS */
+
+.btn{
+
+  width:260px;
+
+  margin:10px auto;
+
+  padding:14px;
+
+  border:none;
+
+  border-radius:12px;
+
+  cursor:pointer;
+
+  font-size:16px;
+
+}
+
+.connect{background:#1e90ff;color:white}
+
+.copy{background:#2ecc71;color:white}
+
+/* SERVER */
+
+.server{
+
+  width:260px;
+
+  margin:10px auto;
+
+  padding:12px;
+
+  background:#15152a;
+
+  border-radius:12px;
+
+  cursor:pointer;
+
+}
+
+.active{border:2px solid #1e90ff}
+
+/* BOX */
+
+.box{
+
+  width:260px;
+
+  margin:15px auto;
+
+  padding:12px;
+
+  background:#121226;
+
+  border-radius:12px;
+
+  text-align:left;
+
+  font-size:14px;
+
+  line-height:1.4;
+
+}
+
+/* CONNECTING */
+
+#connecting{
+
+  display:none;
+
+  margin-top:10px;
+
+}
+
+.bar{
+
+  width:200px;
+
+  height:6px;
+
+  background:#222;
+
+  margin:10px auto;
+
+  border-radius:10px;
+
+  overflow:hidden;
+
+}
+
+.fill{
+
+  width:0%;
+
+  height:100%;
+
+  background:#1e90ff;
+
+  animation:load 2s forwards;
+
+}
+
+@keyframes load{
+
+  100%{width:100%}
+
+}
+
+/* TOAST */
+
+#toast{
+
+  position:fixed;
+
+  bottom:20px;
+
+  left:50%;
+
+  transform:translateX(-50%);
+
+  background:rgba(0,0,0,.85);
+
+  padding:10px 16px;
+
+  border-radius:10px;
+
+  display:none;
+
+}
+
+</style>
+
 </head>
 
 <body>
 
 <!-- LOADER -->
+
 <div id="loader">
-  <div class="spinner"></div>
-  <p style="margin-top:15px;">Орёл VPN запускается...</p>
+
+<div class="spinner"></div>
+
+<p>Орёл VPN запускается...</p>
+
 </div>
 
 <header>🦅 Орёл VPN</header>
 
 <div class="status" id="status">Статус: не подключено</div>
 
-<button class="btn connect" onclick="connect()">
-  🔐 Подключиться
+<!-- BUTTONS -->
+
+<button class="btn connect" onclick="connectVPN()">
+
+🔐 Подключиться в Happ
+
 </button>
 
 <button class="btn copy" onclick="copySub()">
-  📋 Скопировать подписку
+
+📋 Скопировать подписку
+
 </button>
 
+<!-- CONNECTING -->
+
 <div id="connecting">
-  <p>Подключение...</p>
-  <div class="bar">
-    <div class="progress"></div>
-  </div>
+
+<p>Подключение...</p>
+
+<div class="bar"><div class="fill"></div></div>
+
 </div>
 
-<!-- СЕРВЕРЫ -->
-<div class="server active" onclick="selectServer(this,'US')">🇺🇸 США</div>
-<div class="server" onclick="selectServer(this,'MOBILE')">📶 Мобильный интернет</div>
-<div class="server" onclick="selectServer(this,'FIN')">🇫🇮 Финляндия</div>
+<!-- SERVERS -->
+
+<div class="server active" onclick="setServer(this,'US')">🇺🇸 США</div>
+
+<div class="server" onclick="setServer(this,'MOBILE')">📶 Мобильный интернет</div>
+
+<div class="server" onclick="setServer(this,'FIN')">🇫🇮 Финляндия</div>
+
+<!-- INSTRUCTION -->
+
+<div class="box">
+
+<b>📌 Инструкция:</b><br><br>
+
+1. Скопируйте ссылку подписки.<br>
+
+2. Откройте Happ.<br>
+
+3. Нажмите «+» в правом верхнем углу.<br>
+
+4. Нажмите «Из буфера обмена».<br>
+
+5. Пользуйтесь с удовольствием!
+
+</div>
 
 <div id="toast"></div>
 
 <script>
-const SUB = "https://raw.githubusercontent.com/bdtvyz76b6-blip/vpn-sub/main/sub.txt";
 
-let current = "US";
-let connected = false;
+const SUB="https://raw.githubusercontent.com/bdtvyz76b6-blip/vpn-sub/main/sub.txt";
+
+const APP="itms-apps://apps.apple.com/app/id6504287215";
+
+let server="US";
 
 /* CONNECT */
-function connect() {
-  document.getElementById("connecting").style.display = "block";
 
-  setTimeout(() => {
-    connected = true;
-    document.getElementById("status").innerText = "Статус: подключено 🟢";
-    showToast("VPN подключен");
-  }, 2200);
+function connectVPN(){
+
+  navigator.clipboard.writeText(SUB);
+
+  document.getElementById("connecting").style.display="block";
+
+  setTimeout(()=>{
+
+    document.getElementById("status").innerText="Статус: подключено 🟢";
+
+  },2000);
+
+  setTimeout(()=>{
+
+    window.location.href=APP;
+
+  },1200);
+
 }
 
 /* COPY */
-function copySub() {
+
+function copySub(){
+
   navigator.clipboard.writeText(SUB);
-  showToast("Ссылка скопирована");
+
+  show("Скопировано 📋");
+
 }
 
 /* SERVER */
-function selectServer(el, key) {
-  document.querySelectorAll(".server").forEach(s => s.classList.remove("active"));
+
+function setServer(el,key){
+
+  document.querySelectorAll(".server").forEach(s=>s.classList.remove("active"));
+
   el.classList.add("active");
-  current = key;
-  showToast("Сервер: " + key);
+
+  server=key;
+
+  show("Сервер: "+key);
+
 }
 
 /* TOAST */
-function showToast(t) {
-  const el = document.getElementById("toast");
-  el.innerText = t;
-  el.style.display = "block";
-  setTimeout(() => el.style.display = "none", 2000);
+
+function show(t){
+
+  const x=document.getElementById("toast");
+
+  x.innerText=t;
+
+  x.style.display="block";
+
+  setTimeout(()=>x.style.display="none",2000);
+
 }
 
 /* LOADER */
-window.addEventListener("load", () => {
-  const l = document.getElementById("loader");
+
+window.addEventListener("load",()=>{
+
+  const l=document.getElementById("loader");
+
   l.classList.add("fade");
-  setTimeout(() => l.style.display = "none", 500);
+
+  setTimeout(()=>l.style.display="none",500);
+
 });
+
 </script>
 
 </body>
+
 </html>
