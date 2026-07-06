@@ -1,54 +1,141 @@
 {
+
   "version": 2,
+
   "remarks": "OrelVPN",
+
   "outbounds": [
+
     {
+
       "type": "vless",
+
       "tag": "🇺🇸 Америка",
+
       "server": "178.159.94.55",
+
       "server_port": 443,
+
       "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
+
       "network": "grpc",
+
       "security": "reality",
+
       "tls": {
+
         "server_name": "maps.apple.com",
+
         "fingerprint": "chrome"
+
       },
+
       "transport": {
+
         "service_name": "your-custom-path"
+
       }
+
     },
+
     {
+
       "type": "vless",
+
       "tag": "🇫🇮 Финляндия",
+
       "server": "45.151.102.99",
+
       "server_port": 9443,
+
       "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
+
       "network": "grpc",
+
       "security": "reality",
+
       "tls": {
+
         "server_name": "maps.apple.com",
+
         "fingerprint": "chrome"
+
       },
+
       "transport": {
+
         "service_name": "your-custom-path"
+
       }
+
     },
+
     {
+
       "type": "vless",
-      "tag": "🇪🇺 Мобильный",
-      "server": "dns.pleiades.codes",
+
+      "tag": "🇪🇺 Мобильный интернет",
+
+      "server": "goodwin-pro.tlsov.pro",
+
       "server_port": 443,
-      "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
-      "network": "xhttp",
-      "security": "tls",
+
+      "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
+
+      "network": "grpc",
+
+      "security": "reality",
+
       "tls": {
-        "server_name": "dns.pleiades.codes",
-        "fingerprint": "chrome"
+
+        "server_name": "ads.x5.ru",
+
+        "fingerprint": "qq"
+
       },
+
       "transport": {
-        "path": "/uploadfiles/"
+
+        "service_name": "ads.x5.ru"
+
       }
+
+    },
+
+    {
+
+      "type": "vless",
+
+      "tag": "🇪🇺 Мобильный интернет (резерв)",
+
+      "server": "4861b6a1d8.cacheio.ru",
+
+      "server_port": 443,
+
+      "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
+
+      "network": "ws",
+
+      "security": "tls",
+
+      "tls": {
+
+        "server_name": "4861b6a1d8.cacheio.ru",
+
+        "fingerprint": "chrome"
+
+      },
+
+      "transport": {
+
+        "host": "4861b6a1d8.cacheio.ru",
+
+        "path": "/api/v2/sync/09f21a21c0"
+
+      }
+
     }
+
   ]
+
 }
