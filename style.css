@@ -244,3 +244,61 @@ transform:translateY(0);
 transform:translateY(-12px);
 }
 }
+/* ===========================
+   PREMIUM BACKGROUND
+=========================== */
+
+#stars{
+position:fixed;
+inset:0;
+width:100%;
+height:100%;
+z-index:-3;
+}
+
+.background-glow{
+position:fixed;
+border-radius:50%;
+filter:blur(120px);
+opacity:.28;
+z-index:-2;
+animation:moveGlow 18s ease-in-out infinite alternate;
+}
+
+.glow1{
+width:420px;
+height:420px;
+background:#2563eb;
+top:-120px;
+left:-120px;
+}
+
+.glow2{
+width:360px;
+height:360px;
+background:#06b6d4;
+bottom:-100px;
+right:-100px;
+animation-delay:4s;
+}
+
+.glow3{
+width:300px;
+height:300px;
+background:#7c3aed;
+top:45%;
+left:55%;
+animation-delay:8s;
+}
+
+@keyframes moveGlow{
+
+0%{
+transform:translate(0,0) scale(1);
+}
+
+100%{
+transform:translate(80px,-60px) scale(1.2);
+}
+
+}
