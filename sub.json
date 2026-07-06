@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "remarks": "OrelVPN",
+  "remarks": "OrelVPN FULL",
   "outbounds": [
     {
       "type": "vless",
@@ -39,6 +39,22 @@
       "tag": "🇫🇷 Франция",
       "server": "178.159.94.55",
       "server_port": 8443,
+      "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
+      "network": "grpc",
+      "security": "reality",
+      "tls": {
+        "server_name": "maps.apple.com",
+        "fingerprint": "chrome"
+      },
+      "transport": {
+        "service_name": "your-custom-path"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Германия",
+      "server": "45.151.102.99",
+      "server_port": 6443,
       "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
       "network": "grpc",
       "security": "reality",
