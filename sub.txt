@@ -3,3 +3,5 @@ vless://2b59b5b5-5d6d-416e-85d4-a549f661e7c5@178.159.94.55:443?type=grpc&securit
 vless://2b59b5b5-5d6d-416e-85d4-a549f661e7c5@45.151.102.99:9443?type=grpc&security=reality&sni=maps.apple.com&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&serviceName=your-custom-path#🇫🇮 Финляндия
 
 vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?encryption=none&security=reality&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇪🇺 Мобильный интернет
+
+vless://945e5966-78bb-413d-95fe-67476332e61b@4861b6a1d8.cacheio.ru:443?encryption=none&security=tls&type=ws&host=4861b6a1d8.cacheio.ru&path=%2Fapi%2Fv2%2Fsync%2F09f21a21c0&sni=4861b6a1d8.cacheio.ru&fp=chrome#🇪🇺 Мобильный интернет (резерв)
