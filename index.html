@@ -8,190 +8,121 @@
   <meta name="description" content="Быстрый, безопасный и современный VPN.">
 
   <link rel="stylesheet" href="./style.css">
-<script src="./script.js"></script>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="favicon.svg">
 
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f0f1a;
+      color: white;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      padding: 20px;
+      font-size: 22px;
+      font-weight: bold;
+    }
+
+    .btn {
+      display: block;
+      margin: 10px auto;
+      padding: 14px 18px;
+      width: 240px;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .connect {
+      background: #1e90ff;
+      color: white;
+    }
+
+    .copy {
+      background: #2ecc71;
+      color: white;
+    }
+
+    .card {
+      background: #1a1a2e;
+      margin: 10px auto;
+      padding: 15px;
+      border-radius: 12px;
+      width: 260px;
+    }
+
+    #toast {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(0,0,0,0.8);
+      padding: 10px 16px;
+      border-radius: 10px;
+      display: none;
+    }
+  </style>
 </head>
 
-<body><body>
-
-  <h1>Орёл VPN</h1>
-
-  <button onclick="window.location.href='itms-apps://apps.apple.com/app/id6504287215'">
-    Подключиться
-  </button>
-
-</body><script>
-window.addEventListener("load", () => {
-  const p = document.getElementById("preloader");
-  if (p) p.style.display = "none";
-});
-</script><div id="preloader">
-  <div class="loader">
-    <div class="eagle">🦅</div>
-    <div class="loading-text">Орёл VPN</div>
-    <div class="loading-bar">
-      <div class="loading-progress"></div>
-    </div>
-  </div>
-</div>
-
-<div id="particles"></div><div class="background-glow glow1"></div>
-<div class="background-glow glow2"></div>
-<div class="background-glow glow3"></div>
-
-<canvas id="stars"></canvas>
-
-<header>
-
-<div class="logo">
-🦅 Орёл VPN
-</div>
-
-<nav>
-
-<a href="#features">Возможности</a>
-
-<a href="#servers">Серверы</a>
-
-<a href="#faq">FAQ</a>
-
-</nav>
-
-</header>
-
-<section class="hero">
-
-<h1>
-Безопасный VPN нового поколения
-</h1>
-
-<p>
-
-Высокая скорость.
-
-Надёжная защита.
-
-Автообновляемая подписка.
-
-</p>
-
-
-
-</section>
-
-<section id="features">
-
-<h2>
-
-Почему Орёл VPN?
-
-</h2>
-
-<div class="cards">
-
-<div class="card">
-
-⚡
-
-<h3>Высокая скорость</h3>
-
-<p>Минимальная задержка.</p>
-
-</div>
-
-<div class="card">
-
-🔒
-
-<h3>Безопасность</h3>
-
-<p>Защищённое соединение.</p>
-
-</div>
-
-<div class="card">
-
-📱
-
-<h3>Любые устройства</h3>
-
-<p>iPhone, Android, Windows.</p>
-
-</div>
-
-</div>
-
-</section>
-
-<section id="servers">
-
-<h2>Наши серверы</h2>
-
-<div class="cards">
-
-<div class="card">
-
-🇺🇸
-
-<h3>США</h3>
-
-</div>
-
-<div class="card">
-
-🇫🇮
-
-<h3>Финляндия</h3>
-
-</div>
-
-<div class="card">
-
-🇪🇺
-
-<h3>Европа</h3>
-
-</div>
-
-</div>
-
-</section>
-
-<section id="faq">
-
-<h2>FAQ</h2>
-
-<div class="faq">
-
-<div class="faq-item">
-
-<h3>Как подключиться?</h3>
-
-<p>Нажмите кнопку «Подключиться» и импортируйте подписку.</p>
-
-</div>
-
-<div class="faq-item">
-
-<h3>Автообновление работает?</h3>
-
-<p>Да, если ваш VPN-клиент поддерживает обновление подписок.</p>
-
-</div>
-
-</div>
-
-</section>
-
-<footer>
-
-© 2026 Орёл VPN
-
-</footer>
-
-<script src="script.js"></script>
+<body>
+
+<header>🦅 Орёл VPN</header>
+
+<h2>Безопасный VPN нового поколения</h2>
+
+<!-- КНОПКИ -->
+<button class="btn connect" onclick="connectVPN()">
+  🔐 Подключиться
+</button>
+
+<button class="btn copy" onclick="copySub()">
+  📋 Скопировать подписку
+</button>
+
+<!-- СЕРВЕРЫ -->
+<div class="card">🇺🇸 США</div>
+<div class="card">📶 Мобильный интернет</div>
+<div class="card">🇨🇳 Азия</div>
+
+<div id="toast"></div>
+
+<script>
+const SUB = "https://raw.githubusercontent.com/bdtvyz76b6-blip/vpn-sub/main/sub.txt";
+const APP = "itms-apps://apps.apple.com/app/id6504287215";
+
+// подключение
+function connectVPN() {
+  navigator.clipboard.writeText(SUB);
+  showToast("Подключение...");
+
+  setTimeout(() => {
+    window.location.href = APP;
+  }, 800);
+}
+
+// копирование
+function copySub() {
+  navigator.clipboard.writeText(SUB).then(() => {
+    showToast("Ссылка скопирована 📋");
+  });
+}
+
+// toast
+function showToast(text) {
+  const t = document.getElementById("toast");
+  t.innerText = text;
+  t.style.display = "block";
+
+  setTimeout(() => {
+    t.style.display = "none";
+  }, 2000);
+}
+</script>
 
 </body>
 </html>
