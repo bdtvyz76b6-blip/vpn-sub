@@ -185,3 +185,62 @@ nav{
 }
 
 }
+/* ===========================
+   PRELOADER
+=========================== */
+
+#preloader{
+position:fixed;
+inset:0;
+background:#08101f;
+display:flex;
+justify-content:center;
+align-items:center;
+z-index:99999;
+transition:.6s;
+}
+
+.loader{
+text-align:center;
+}
+
+.eagle{
+font-size:80px;
+animation:float 2s ease-in-out infinite;
+}
+
+.loading-text{
+margin-top:15px;
+font-size:34px;
+font-weight:bold;
+}
+
+.loading-bar{
+width:260px;
+height:8px;
+background:#1e293b;
+border-radius:999px;
+margin-top:25px;
+overflow:hidden;
+}
+
+.loading-progress{
+height:100%;
+width:0;
+background:linear-gradient(90deg,#3b82f6,#60a5fa,#38bdf8);
+animation:loading 2.4s forwards;
+}
+
+@keyframes loading{
+0%{width:0;}
+100%{width:100%;}
+}
+
+@keyframes float{
+0%,100%{
+transform:translateY(0);
+}
+50%{
+transform:translateY(-12px);
+}
+}
