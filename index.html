@@ -5,20 +5,44 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>🦅 Орёл VPN</title>
 
-  <meta name="description" content="Быстрый, безопасный и современный VPN.">
-
-  <link rel="stylesheet" href="./style.css">
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="favicon.svg">
-
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #0f0f1a;
+      margin: 0;
+      font-family: Arial;
+      background: #0b0b14;
       color: white;
       text-align: center;
-      margin: 0;
-      padding: 0;
+      overflow-x: hidden;
+    }
+
+    /* LOADER */
+    #loader {
+      position: fixed;
+      inset: 0;
+      background: #0b0b14;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+
+    .spinner {
+      width: 60px;
+      height: 60px;
+      border: 4px solid rgba(255,255,255,0.2);
+      border-top: 4px solid #1e90ff;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+
+    .fade {
+      opacity: 0;
+      transition: 0.5s;
     }
 
     header {
@@ -27,15 +51,26 @@
       font-weight: bold;
     }
 
+    .status {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #aaa;
+    }
+
     .btn {
       display: block;
       margin: 10px auto;
-      padding: 14px 18px;
-      width: 240px;
-      border: none;
+      width: 260px;
+      padding: 14px;
       border-radius: 12px;
+      border: none;
       cursor: pointer;
       font-size: 16px;
+      transition: 0.2s;
+    }
+
+    .btn:active {
+      transform: scale(0.97);
     }
 
     .connect {
@@ -48,12 +83,48 @@
       color: white;
     }
 
-    .card {
+    .server {
       background: #1a1a2e;
       margin: 10px auto;
-      padding: 15px;
-      border-radius: 12px;
       width: 260px;
+      padding: 12px;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .server:hover {
+      transform: scale(1.03);
+    }
+
+    .active {
+      border: 2px solid #1e90ff;
+    }
+
+    /* CONNECTING ANIMATION */
+    #connecting {
+      display: none;
+      margin-top: 20px;
+    }
+
+    .bar {
+      width: 200px;
+      height: 6px;
+      background: #222;
+      margin: 10px auto;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .progress {
+      width: 0%;
+      height: 100%;
+      background: #1e90ff;
+      animation: load 2s forwards;
+    }
+
+    @keyframes load {
+      to { width: 100%; }
     }
 
     #toast {
@@ -61,7 +132,7 @@
       bottom: 20px;
       left: 50%;
       transform: translateX(-50%);
-      background: rgba(0,0,0,0.8);
+      background: rgba(0,0,0,0.85);
       padding: 10px 16px;
       border-radius: 10px;
       display: none;
@@ -71,12 +142,17 @@
 
 <body>
 
+<!-- LOADER -->
+<div id="loader">
+  <div class="spinner"></div>
+  <p style="margin-top:15px;">Орёл VPN запускается...</p>
+</div>
+
 <header>🦅 Орёл VPN</header>
 
-<h2>Безопасный VPN нового поколения</h2>
+<div class="status" id="status">Статус: не подключено</div>
 
-<!-- КНОПКИ -->
-<button class="btn connect" onclick="connectVPN()">
+<button class="btn connect" onclick="connect()">
   🔐 Подключиться
 </button>
 
@@ -84,44 +160,65 @@
   📋 Скопировать подписку
 </button>
 
+<div id="connecting">
+  <p>Подключение...</p>
+  <div class="bar">
+    <div class="progress"></div>
+  </div>
+</div>
+
 <!-- СЕРВЕРЫ -->
-<div class="card">🇺🇸 США</div>
-<div class="card">📶 Мобильный интернет</div>
-<div class="card">🇨🇳 Азия</div>
+<div class="server active" onclick="selectServer(this,'US')">🇺🇸 США</div>
+<div class="server" onclick="selectServer(this,'MOBILE')">📶 Мобильный интернет</div>
+<div class="server" onclick="selectServer(this,'FIN')">🇫🇮 Финляндия</div>
 
 <div id="toast"></div>
 
 <script>
 const SUB = "https://raw.githubusercontent.com/bdtvyz76b6-blip/vpn-sub/main/sub.txt";
-const APP = "itms-apps://apps.apple.com/app/id6504287215";
 
-// подключение
-function connectVPN() {
-  navigator.clipboard.writeText(SUB);
-  showToast("Подключение...");
+let current = "US";
+let connected = false;
+
+/* CONNECT */
+function connect() {
+  document.getElementById("connecting").style.display = "block";
 
   setTimeout(() => {
-    window.location.href = APP;
-  }, 800);
+    connected = true;
+    document.getElementById("status").innerText = "Статус: подключено 🟢";
+    showToast("VPN подключен");
+  }, 2200);
 }
 
-// копирование
+/* COPY */
 function copySub() {
-  navigator.clipboard.writeText(SUB).then(() => {
-    showToast("Ссылка скопирована 📋");
-  });
+  navigator.clipboard.writeText(SUB);
+  showToast("Ссылка скопирована");
 }
 
-// toast
-function showToast(text) {
-  const t = document.getElementById("toast");
-  t.innerText = text;
-  t.style.display = "block";
-
-  setTimeout(() => {
-    t.style.display = "none";
-  }, 2000);
+/* SERVER */
+function selectServer(el, key) {
+  document.querySelectorAll(".server").forEach(s => s.classList.remove("active"));
+  el.classList.add("active");
+  current = key;
+  showToast("Сервер: " + key);
 }
+
+/* TOAST */
+function showToast(t) {
+  const el = document.getElementById("toast");
+  el.innerText = t;
+  el.style.display = "block";
+  setTimeout(() => el.style.display = "none", 2000);
+}
+
+/* LOADER */
+window.addEventListener("load", () => {
+  const l = document.getElementById("loader");
+  l.classList.add("fade");
+  setTimeout(() => l.style.display = "none", 500);
+});
 </script>
 
 </body>
