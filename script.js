@@ -69,3 +69,21 @@ window.addEventListener("mousemove", (e) => {
     `${x * 40}px ${y * 40}px`;
 
 });
+к// Прелоадер
+window.addEventListener("load", () => {
+
+  setTimeout(() => {
+
+    const preloader = document.getElementById("preloader");
+
+    preloader.style.opacity = "0";
+
+    setTimeout(() => {
+
+      preloader.remove();
+
+    },600);
+
+  },1800);
+
+});
