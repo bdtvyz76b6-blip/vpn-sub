@@ -69,7 +69,7 @@ window.addEventListener("mousemove", (e) => {
     `${x * 40}px ${y * 40}px`;
 
 });
-к// Прелоадер
+// Прелоадер
 window.addEventListener("load", () => {
 
   setTimeout(() => {
