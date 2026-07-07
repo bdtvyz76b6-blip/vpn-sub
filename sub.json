@@ -10,7 +10,7 @@
 
       "type": "vless",
 
-      "tag": "🇺🇸 Америка",
+      "tag": "🇺🇸 Америка @orelvpnnbot",
 
       "server": "178.159.94.55",
 
@@ -42,103 +42,7 @@
 
       "type": "vless",
 
-      "tag": "🇫🇮 Финляндия",
-
-      "server": "45.151.102.99",
-
-      "server_port": 9443,
-
-      "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
-
-      "network": "grpc",
-
-      "security": "reality",
-
-      "tls": {
-
-        "server_name": "maps.apple.com",
-
-        "fingerprint": "chrome"
-
-      },
-
-      "transport": {
-
-        "service_name": "your-custom-path"
-
-      }
-
-    },
-
-    {
-
-      "type": "vless",
-
-      "tag": "🇫🇷 Франция",
-
-      "server": "178.159.94.55",
-
-      "server_port": 8443,
-
-      "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
-
-      "network": "grpc",
-
-      "security": "reality",
-
-      "tls": {
-
-        "server_name": "maps.apple.com",
-
-        "fingerprint": "chrome"
-
-      },
-
-      "transport": {
-
-        "service_name": "your-custom-path"
-
-      }
-
-    },
-
-    {
-
-      "type": "vless",
-
-      "tag": "🇩🇪 Германия",
-
-      "server": "45.151.102.99",
-
-      "server_port": 6443,
-
-      "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
-
-      "network": "grpc",
-
-      "security": "reality",
-
-      "tls": {
-
-        "server_name": "maps.apple.com",
-
-        "fingerprint": "chrome"
-
-      },
-
-      "transport": {
-
-        "service_name": "your-custom-path"
-
-      }
-
-    },
-
-    {
-
-      "type": "vless",
-
-      "tag": "🇦🇪 Дубай",
+      "tag": "🇦🇪 Дубай @orelvpnnbot",
 
       "server": "185.253.116.18",
 
@@ -168,7 +72,7 @@
 
       "type": "vless",
 
-      "tag": "🇸🇪 Швеция",
+      "tag": "🇸🇪 Швеция @orelvpnnbot",
 
       "server": "192.142.23.202",
 
@@ -198,7 +102,7 @@
 
       "type": "vless",
 
-      "tag": "🔷 Только Telegram",
+      "tag": "🔷 Только Telegram @orelvpnnbot",
 
       "server": "telegram.looks-free.rutube.info",
 
@@ -228,7 +132,7 @@
 
       "type": "vless",
 
-      "tag": "🇪🇺 Мобильный интернет",
+      "tag": "🇪🇺 Мобильный интернет @orelvpnnbot",
 
       "server": "goodwin-pro.tlsov.pro",
 
@@ -260,7 +164,7 @@
 
       "type": "vless",
 
-      "tag": "🇪🇺 Мобильный интернет (резерв)",
+      "tag": "🇪🇺 Мобильный интернет (резерв) @orelvpnnbot",
 
       "server": "4861b6a1d8.cacheio.ru",
 
