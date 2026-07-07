@@ -168,6 +168,36 @@
 
       "type": "vless",
 
+      "tag": "🇸🇪 Швеция",
+
+      "server": "192.142.23.202",
+
+      "server_port": 443,
+
+      "uuid": "723ed93a-bba7-0002-8def-e1d9661cac49",
+
+      "network": "tcp",
+
+      "security": "reality",
+
+      "flow": "xtls-rprx-vision",
+
+      "tls": {
+
+        "server_name": "qr-gen.cc",
+
+        "fingerprint": "chrome"
+
+      },
+
+      "transport": {}
+
+    },
+
+    {
+
+      "type": "vless",
+
       "tag": "🇪🇺 Мобильный интернет",
 
       "server": "goodwin-pro.tlsov.pro",
