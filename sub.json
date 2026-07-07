@@ -198,6 +198,36 @@
 
       "type": "vless",
 
+      "tag": "🔷 Только Telegram",
+
+      "server": "telegram.looks-free.rutube.info",
+
+      "server_port": 443,
+
+      "uuid": "c61ec320-29f1-4e00-9272-8b676e6957b4",
+
+      "network": "tcp",
+
+      "security": "reality",
+
+      "flow": "xtls-rprx-vision",
+
+      "tls": {
+
+        "server_name": "tradingview.com",
+
+        "fingerprint": "qq"
+
+      },
+
+      "transport": {}
+
+    },
+
+    {
+
+      "type": "vless",
+
       "tag": "🇪🇺 Мобильный интернет",
 
       "server": "goodwin-pro.tlsov.pro",
