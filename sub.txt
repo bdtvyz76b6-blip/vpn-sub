@@ -1,17 +1,11 @@
-vless://723ed93a-bba7-0002-8def-e1d9661cac49@192.142.23.202:443?type=tcp&security=reality&sni=qr-gen.cc&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&flow=xtls-rprx-vision#🇸🇪 Швеция
+vless://723ed93a-bba7-0002-8def-e1d9661cac49@192.142.23.202:443?type=tcp&security=reality&sni=qr-gen.cc&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&flow=xtls-rprx-vision#🇸🇪 Швеция @orelvpnnbot
 
-vless://723ed93a-bba7-4b57-8def-e1d9661cac49@185.253.116.18:8443?type=tcp&security=reality&sni=apple.com&fp=qq&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&flow=xtls-rprx-vision#🇦🇪 Дубай
+vless://723ed93a-bba7-4b57-8def-e1d9661cac49@185.253.116.18:8443?type=tcp&security=reality&sni=apple.com&fp=qq&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&flow=xtls-rprx-vision#🇦🇪 Дубай @orelvpnnbot
 
-vless://2b59b5b5-5d6d-416e-85d4-a549f661e7c5@45.151.102.99:6443?type=grpc&security=reality&sni=maps.apple.com&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&serviceName=your-custom-path#🇩🇪 Германия
+vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?type=tcp&security=reality&sni=www.nvidia.com&fp=firefox&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&sid=205f8d&flow=xtls-rprx-vision#🇺🇸 Америка @orelvpnnbot
 
-vless://2b59b5b5-5d6d-416e-85d4-a549f661e7c5@178.159.94.55:8443?type=grpc&security=reality&sni=maps.apple.com&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&serviceName=your-custom-path#🇫🇷 Франция
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@telegram.looks-free.rutube.info:443?type=tcp&security=reality&sni=tradingview.com&fp=qq&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=08&flow=xtls-rprx-vision#🔷 Только Telegram @orelvpnnbot
 
-vless://2b59b5b5-5d6d-416e-85d4-a549f661e7c5@178.159.94.55:443?type=grpc&security=reality&sni=maps.apple.com&fp=chrome&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&serviceName=your-custom-path#🇺🇸 Америка
+vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?encryption=none&security=reality&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇪🇺 Мобильный интернет @orelvpnnbot
 
-vless://2b59b5b5-5d6d-416e-85d4-a549f661e7c5@45.151.102.99:9443?type=grpc&security=reality&sni=maps.apple.com&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&serviceName=your-custom-path#🇫🇮 Финляндия
-
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@telegram.looks-free.rutube.info:443?type=tcp&security=reality&sni=tradingview.com&fp=qq&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=08&flow=xtls-rprx-vision#🔷 Только Telegram
-
-vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?encryption=none&security=reality&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇪🇺 Мобильный интернет
-
-vless://945e5966-78bb-413d-95fe-67476332e61b@4861b6a1d8.cacheio.ru:443?encryption=none&security=tls&type=ws&host=4861b6a1d8.cacheio.ru&path=%2Fapi%2Fv2%2Fsync%2F09f21a21c0&sni=4861b6a1d8.cacheio.ru&fp=chrome#🇪🇺 Мобильный интернет (резерв)
+vless://945e5966-78bb-413d-95fe-67476332e61b@4861b6a1d8.cacheio.ru:443?encryption=none&security=tls&type=ws&host=4861b6a1d8.cacheio.ru&path=%2Fapi%2Fv2%2Fsync%2F09f21a21c0&sni=4861b6a1d8.cacheio.ru&fp=chrome#🇪🇺 Мобильный интернет (резерв) @orelvpnnbot
