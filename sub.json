@@ -1,199 +1,113 @@
 {
-
   "version": 2,
-
   "remarks": "OrelVPN FULL",
-
   "outbounds": [
-
     {
-
+      "type": "hysteria2",
+      "tag": "🇳🇴 Норвегия @orelvpnnbot",
+      "server": "144.31.217.131",
+      "server_port": 443,
+      "password": "1Y9B2ZtwBOVgwiGb6Dbi5PFZFNnxCqrw",
+      "tls": {
+        "server_name": "144-31-217-131.sslip.io",
+        "alpn": [
+          "h3"
+        ]
+      }
+    },
+    {
       "type": "vless",
-
       "tag": "🇺🇸 Америка @orelvpnnbot",
-
       "server": "178.159.94.55",
-
       "server_port": 443,
-
       "uuid": "2b59b5b5-5d6d-416e-85d4-a549f661e7c5",
-
       "network": "grpc",
-
       "security": "reality",
-
       "tls": {
-
         "server_name": "maps.apple.com",
-
         "fingerprint": "chrome"
-
       },
-
       "transport": {
-
         "service_name": "your-custom-path"
-
       }
-
     },
-
     {
-
       "type": "vless",
-
       "tag": "🇦🇪 Дубай @orelvpnnbot",
-
       "server": "185.253.116.18",
-
       "server_port": 8443,
-
       "uuid": "723ed93a-bba7-4b57-8def-e1d9661cac49",
-
       "network": "tcp",
-
       "security": "reality",
-
       "flow": "xtls-rprx-vision",
-
       "tls": {
-
         "server_name": "apple.com",
-
         "fingerprint": "qq"
-
       },
-
       "transport": {}
-
     },
-
     {
-
       "type": "vless",
-
       "tag": "🇸🇪 Швеция @orelvpnnbot",
-
       "server": "192.142.23.202",
-
       "server_port": 443,
-
       "uuid": "723ed93a-bba7-0002-8def-e1d9661cac49",
-
       "network": "tcp",
-
       "security": "reality",
-
       "flow": "xtls-rprx-vision",
-
       "tls": {
-
         "server_name": "qr-gen.cc",
-
         "fingerprint": "chrome"
-
       },
-
       "transport": {}
-
     },
-
     {
-
       "type": "vless",
-
       "tag": "🔷 Только Telegram @orelvpnnbot",
-
       "server": "telegram.looks-free.rutube.info",
-
       "server_port": 443,
-
       "uuid": "c61ec320-29f1-4e00-9272-8b676e6957b4",
-
       "network": "tcp",
-
       "security": "reality",
-
       "flow": "xtls-rprx-vision",
-
       "tls": {
-
         "server_name": "tradingview.com",
-
         "fingerprint": "qq"
-
       },
-
       "transport": {}
-
     },
-
     {
-
       "type": "vless",
-
       "tag": "🇪🇺 Мобильный интернет @orelvpnnbot",
-
       "server": "goodwin-pro.tlsov.pro",
-
       "server_port": 443,
-
       "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
-
       "network": "grpc",
-
       "security": "reality",
-
       "tls": {
-
         "server_name": "ads.x5.ru",
-
         "fingerprint": "qq"
-
       },
-
       "transport": {
-
         "service_name": "ads.x5.ru"
-
       }
-
     },
-
     {
-
       "type": "vless",
-
       "tag": "🇪🇺 Мобильный интернет (резерв) @orelvpnnbot",
-
       "server": "4861b6a1d8.cacheio.ru",
-
       "server_port": 443,
-
       "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
-
       "network": "ws",
-
       "security": "tls",
-
       "tls": {
-
         "server_name": "4861b6a1d8.cacheio.ru",
-
         "fingerprint": "chrome"
-
       },
-
       "transport": {
-
         "host": "4861b6a1d8.cacheio.ru",
-
         "path": "/api/v2/sync/09f21a21c0"
-
       }
-
     }
-
   ]
-
 }
