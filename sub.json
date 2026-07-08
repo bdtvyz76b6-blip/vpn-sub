@@ -1,1 +1,464 @@
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "udp": true
+      }
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "🇫🇷 Франция @orelvpnnbot",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "fr.nodes.rocketnetwork.ru",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f678d60-48d7-4eb0-9f85-35ed154d1cd5",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "titanrealm.ru",
+          "fingerprint": "chrome",
+          "publicKey": "Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs",
+          "shortId": "428ef87fd47a3a32"
+        }
+      }
+    },
+    {
+      "tag": "🇵🇱 Польша @orelvpnnbot",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "151.245.192.192",
+            "port": 443,
+            "users": [
+              {
+                "id": "ad2c4a66-2b1b-472a-922a-9f88b0b48390",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "auto.malina24.xyz",
+          "fingerprint": "qq",
+          "publicKey": "V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ",
+          "shortId": "abcd"
+        }
+      }
+    },
+    {
+      "tag": "🇩🇪 Германия @orelvpnnbot",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "securitytrails.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "90c09d42-c5f6-4602-bba8-957df1ed5598",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "cdn.webhookapi.dpdns.org",
+          "fingerprint": "chrome"
+        },
+        "xhttpSettings": {
+          "host": "cdn.webhookapi.dpdns.org",
+          "path": "/forall",
+          "mode": "auto"
+        }
+      }
+    },
+    {
+      "tag": "🇪🇸 Испания @orelvpnnbot",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "152.233.56.39",
+            "port": 443,
+            "users": [
+              {
+                "id": "14619c55-0059-4942-92da-1d2b91dd0b3f",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "api-maps.yandex.ru",
+          "fingerprint": "firefox",
+          "publicKey": "fJGvGs_j23gTjn5q5QWCOsD3TeIdOqkpSLv7geS6AQI",
+          "shortId": "2b8c5943"
+        }
+      }
+    }
+,
+{
+  "tag": "🇳🇱 Нидерланды @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "151.101.56.7",
+        "port": 443,
+        "users": [
+          {
+            "id": "22567788-f6c9-8a1a-237f-9af0cbf7c5af",
+            "encryption": "none"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "ws",
+    "security": "tls",
+    "tlsSettings": {
+      "serverName": "ssl.fastly.com",
+      "fingerprint": "chrome"
+    },
+    "wsSettings": {
+      "host": "mitivpn-vipsub-de.global.ssl.fastly.net",
+      "path": "/"
+    }
+  }
+},
+{
+  "tag": "🇨🇭 Швейцария @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "45.196.193.116",
+        "port": "8443",
+        "users": [
+          {
+            "id": "b9a83acf-44ff-44a5-b8bc-417c9f82ae11",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "tcp",
+    "security": "reality",
+    "realitySettings": {
+      "serverName": "storage.yandex.net",
+      "fingerprint": "firefox",
+      "publicKey": "IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY",
+      "shortId": "40ce08cf20c67003"
+    }
+  }
+},
+{
+  "tag": "🇭🇺 Венгрия @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "45.195.111.58",
+        "port": 443,
+        "users": [
+          {
+            "id": "4af89b09-ce0c-4dab-b798-629d8b900af0",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "tcp",
+    "security": "reality",
+    "realitySettings": {
+      "serverName": "storage.yandex.net",
+      "fingerprint": "firefox",
+      "publicKey": "7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg",
+      "shortId": "f4b4a6365558ea2e"
+    }
+  }
+},
+{
+  "tag": "🇸🇬 Сингапур @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "141.193.213.20",
+        "port": 8443,
+        "users": [
+          {
+            "id": "00cb997f-aebb-4c0b-93de-616962738aa0",
+            "encryption": "none"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "ws",
+    "security": "tls",
+    "tlsSettings": {
+      "serverName": "apexcloud.ggff.net",
+      "fingerprint": "chrome"
+    },
+    "wsSettings": {
+      "host": "apexcloud.ggff.net",
+      "path": "/apexcloud.ggff.net"
+    }
+  }
+},
+{
+  "tag": "🇳🇴 Норвегия @orelvpnnbot",
+  "protocol": "hysteria2",
+  "settings": {
+    "address": "144.31.217.131",
+    "port": 443,
+    "password": "1Y9B2ZtwBOVgwiGb6Dbi5PFZFNnxCqrw"
+  },
+  "streamSettings": {
+    "security": "tls",
+    "tlsSettings": {
+      "serverName": "144-31-217-131.sslip.io",
+      "alpn": [
+        "h3"
+      ]
+    }
+  }
+}
 
+,
+{
+  "tag": "🇸🇪 Швеция @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "192.142.23.202",
+        "port": 443,
+        "users": [
+          {
+            "id": "723ed93a-bba7-0002-8def-e1d9661cac49",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "tcp",
+    "security": "reality",
+    "realitySettings": {
+      "serverName": "qr-gen.cc",
+      "fingerprint": "chrome",
+      "publicKey": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY"
+    }
+  }
+},
+{
+  "tag": "🇦🇪 Дубай @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "185.253.116.18",
+        "port": 8443,
+        "users": [
+          {
+            "id": "723ed93a-bba7-4b57-8def-e1d9661cac49",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "tcp",
+    "security": "reality",
+    "realitySettings": {
+      "serverName": "apple.com",
+      "fingerprint": "qq",
+      "publicKey": "kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ"
+    }
+  }
+},
+{
+  "tag": "🇺🇸 Америка @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "176.119.141.136",
+        "port": 8443,
+        "users": [
+          {
+            "id": "0828a0bc-8acf-422c-9fac-8ad885a0dbaf",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "tcp",
+    "security": "reality",
+    "realitySettings": {
+      "serverName": "www.nvidia.com",
+      "fingerprint": "firefox",
+      "publicKey": "Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE",
+      "shortId": "205f8d"
+    }
+  }
+},
+{
+  "tag": "🔷 Только Telegram @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "telegram.looks-free.rutube.info",
+        "port": 443,
+        "users": [
+          {
+            "id": "c61ec320-29f1-4e00-9272-8b676e6957b4",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "tcp",
+    "security": "reality",
+    "realitySettings": {
+      "serverName": "tradingview.com",
+      "fingerprint": "qq",
+      "publicKey": "Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU",
+      "shortId": "08"
+    }
+  }
+},
+{
+  "tag": "🇪🇺 Мобильный интернет @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "goodwin-pro.tlsov.pro",
+        "port": 443,
+        "users": [
+          {
+            "id": "945e5966-78bb-413d-95fe-67476332e61b",
+            "encryption": "none"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "grpc",
+    "security": "reality",
+    "realitySettings": {
+      "serverName": "ads.x5.ru",
+      "fingerprint": "qq",
+      "publicKey": "K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs",
+      "shortId": "50"
+    },
+    "grpcSettings": {
+      "serviceName": "ads.x5.ru"
+    }
+  }
+},
+{
+  "tag": "🇪🇺 Мобильный интернет (резерв) @orelvpnnbot",
+  "protocol": "vless",
+  "settings": {
+    "vnext": [
+      {
+        "address": "4861b6a1d8.cacheio.ru",
+        "port": 443,
+        "users": [
+          {
+            "id": "945e5966-78bb-413d-95fe-67476332e61b",
+            "encryption": "none"
+          }
+        ]
+      }
+    ]
+  },
+  "streamSettings": {
+    "network": "ws",
+    "security": "tls",
+    "tlsSettings": {
+      "serverName": "4861b6a1d8.cacheio.ru",
+      "fingerprint": "chrome"
+    },
+    "wsSettings": {
+      "host": "4861b6a1d8.cacheio.ru",
+      "path": "/api/v2/sync/09f21a21c0"
+    }
+  }
+}
+],
+"routing": {
+  "domainStrategy": "AsIs",
+  "rules": []
+}
+}
