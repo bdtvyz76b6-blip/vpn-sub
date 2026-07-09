@@ -7,7 +7,3 @@
 vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?type=tcp&security=reality&sni=www.nvidia.com&fp=firefox&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&sid=205f8d&flow=xtls-rprx-vision#🇺🇸 Америка free @orelvpnnbot
 
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@telegram.looks-free.rutube.info:443?type=tcp&security=reality&sni=tradingview.com&fp=qq&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=08&flow=xtls-rprx-vision#🔷 Только Telegram free @orelvpnnbot
-
-vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?encryption=none&security=reality&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇪🇺 Мобильный интернет @orelvpnnbot
-
-vless://945e5966-78bb-413d-95fe-67476332e61b@4861b6a1d8.cacheio.ru:443?encryption=none&security=tls&type=ws&host=4861b6a1d8.cacheio.ru&path=%2Fapi%2Fv2%2Fsync%2F09f21a21c0&sni=4861b6a1d8.cacheio.ru&fp=chrome#🇪🇺 Мобильный интернет (резерв) @orelvpnnbot
