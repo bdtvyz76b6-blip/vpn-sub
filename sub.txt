@@ -1,8 +1,8 @@
-#profile-title: 🦅 Орёл VPN free
+#profile-title: 🦅 Орёл VPN free 🔑
 #profile-update-interval: 1
 #subscription-userinfo: expire=5774966400; total=109951162777600; used=0
 #profile-web-page-url: https://t.me/orelvpnnbot
-#announce: Добро пожаловать в Орёл VPN 🦅
+#announce: 🔑 Бесплатный доступ. Сервера со скоростью до 150 мб/сек 🔒
 
 vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?type=tcp&security=reality&sni=www.nvidia.com&fp=firefox&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&sid=205f8d&flow=xtls-rprx-vision#🇺🇸 Америка free @orelvpnnbot
 
