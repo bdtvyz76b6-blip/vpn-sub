@@ -4,27 +4,7 @@
 #profile-web-page-url: https://t.me/orelvpnnbot
 #announce: Добро пожаловать в Орёл VPN 🦅
 
-vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@fr.nodes.rocketnetwork.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=titanrealm.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇫🇷 Франция @orelvpnnbot
-
-vless://ad2c4a66-2b1b-472a-922a-9f88b0b48390@151.245.192.192:443?type=tcp&security=reality&sni=auto.malina24.xyz&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&flow=xtls-rprx-vision#🇵🇱 Польша @orelvpnnbot
-
-vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?type=xhttp&security=tls&sni=cdn.webhookapi.dpdns.org&host=cdn.webhookapi.dpdns.org&path=%2Fforall&mode=auto&fp=chrome#🇩🇪 Германия @orelvpnnbot
-
-vless://14619c55-0059-4942-92da-1d2b91dd0b3f@152.233.56.39:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=fJGvGs_j23gTjn5q5QWCOsD3TeIdOqkpSLv7geS6AQI&sid=2b8c5943&flow=xtls-rprx-vision#🇪🇸 Испания @orelvpnnbot
-
-vless://22567788-f6c9-8a1a-237f-9af0cbf7c5af@151.101.56.7:443?type=ws&security=tls&sni=ssl.fastly.com&host=mitivpn-vipsub-de.global.ssl.fastly.net&path=%2F&fp=chrome#🇳🇱 Нидерланды @orelvpnnbot
-
-vless://b9a83acf-44ff-44a5-b8bc-417c9f82ae11@45.196.193.116:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003&flow=xtls-rprx-vision#🇨🇭 Швейцария @orelvpnnbot
-
-vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.58:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&flow=xtls-rprx-vision#🇭🇺 Венгрия @orelvpnnbot
-
-vless://00cb997f-aebb-4c0b-93de-616962738aa0@141.193.213.20:8443?type=ws&security=tls&sni=apexcloud.ggff.net&host=apexcloud.ggff.net&path=%2Fapexcloud.ggff.net&fp=chrome#🇸🇬 Сингапур @orelvpnnbot
-
 hy2://1Y9B2ZtwBOVgwiGb6Dbi5PFZFNnxCqrw@144.31.217.131:443?sni=144-31-217-131.sslip.io&alpn=h3#🇳🇴 Норвегия @orelvpnnbot
-
-vless://723ed93a-bba7-0002-8def-e1d9661cac49@192.142.23.202:443?type=tcp&security=reality&sni=qr-gen.cc&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&flow=xtls-rprx-vision#🇸🇪 Швеция @orelvpnnbot
-
-vless://723ed93a-bba7-4b57-8def-e1d9661cac49@185.253.116.18:8443?type=tcp&security=reality&sni=apple.com&fp=qq&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&flow=xtls-rprx-vision#🇦🇪 Дубай @orelvpnnbot
 
 vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?type=tcp&security=reality&sni=www.nvidia.com&fp=firefox&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&sid=205f8d&flow=xtls-rprx-vision#🇺🇸 Америка @orelvpnnbot
 
