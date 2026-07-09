@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "remarks": "OrelVPN VIP 👑",
+  "outbounds": [
+    {
+      "type": "vless",
+      "tag": "🇫🇮 Финляндия VIP 👑 @orelvpnnbot",
+      "server": "fi.tlsov.pro",
+      "server_port": 443,
+      "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
+      "network": "tcp",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "server_name": "ads.x5.ru",
+        "fingerprint": "qq",
+        "reality": {
+          "public_key": "K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs",
+          "short_id": "1000"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Германия VIP 👑 @orelvpnnbot",
+      "server": "de.tlsov.pro",
+      "server_port": 443,
+      "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
+      "network": "tcp",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "server_name": "ads.x5.ru",
+        "fingerprint": "qq",
+        "reality": {
+          "public_key": "K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs",
+          "short_id": "1000"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Германия-2 VIP 👑 @orelvpnnbot",
+      "server": "de.tlsov.pro",
+      "server_port": 8443,
+      "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
+      "network": "grpc",
+      "security": "reality",
+      "tls": {
+        "server_name": "ads.x5.ru",
+        "fingerprint": "qq",
+        "reality": {
+          "public_key": "K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs",
+          "short_id": "1000"
+        }
+      },
+      "transport": {
+        "service_name": "ads.x5.ru"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 Америка VIP 👑 @orelvpnnbot",
+      "server": "176.119.141.136",
+      "server_port": 8443,
+      "uuid": "0828a0bc-8acf-422c-9fac-8ad885a0dbaf",
+      "network": "tcp",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "server_name": "www.nvidia.com",
+        "fingerprint": "firefox",
+        "reality": {
+          "public_key": "Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE",
+          "short_id": "205f8d"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇪🇺 LTE ULTRA 👑 @orelvpnnbot",
+      "server": "goodwin-pro.tlsov.pro",
+      "server_port": 443,
+      "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
+      "network": "grpc",
+      "security": "reality",
+      "tls": {
+        "server_name": "ads.x5.ru",
+        "fingerprint": "qq",
+        "reality": {
+          "public_key": "K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs",
+          "short_id": "50"
+        }
+      },
+      "transport": {
+        "service_name": "ads.x5.ru"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇪🇺 LTE ULTRA-2 👑 @orelvpnnbot",
+      "server": "4861b6a1d8.cacheio.ru",
+      "server_port": 443,
+      "uuid": "945e5966-78bb-413d-95fe-67476332e61b",
+      "network": "ws",
+      "security": "tls",
+      "tls": {
+        "server_name": "4861b6a1d8.cacheio.ru",
+        "fingerprint": "chrome"
+      },
+      "transport": {
+        "host": "4861b6a1d8.cacheio.ru",
+        "path": "/api/v2/sync/09f21a21c0"
+      }
+    }
+  ]
+}
