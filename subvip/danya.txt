@@ -1,6 +1,6 @@
 #profile-title: 👑🦅 для @santizz00
 #profile-update-interval: 1
-#subscription-userinfo: expire=5774966400; total=109951162777600; used=0
+#subscription-userinfo: expire=1784419199; total=109951162777600; used=0
 #profile-web-page-url: https://t.me/orelvpnnbot
 #announce: 👑 Индивидуальный VIP-доступ. Сервера со скоростью до 5 гб/сек 🔒
 
