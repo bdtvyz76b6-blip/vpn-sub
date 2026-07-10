@@ -1,4 +1,4 @@
-#profile-title: 🦅 Орёл VPN VIP 👑 для @Sergey_Mixalych
+#profile-title: 👑🦅 для @Sergey_Mixalych
 #profile-update-interval: 1
 #subscription-userinfo: expire=5774966400; total=109951162777600; used=0
 #profile-web-page-url: https://t.me/orelvpnnbot
