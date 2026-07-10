@@ -1,0 +1,17 @@
+{
+  "papa": {
+    "status": "active",
+    "expire": "2026-08-01",
+    "sub": "subvip/papa.txt"
+  },
+  "danya": {
+    "status": "active",
+    "expire": "2026-08-01",
+    "sub": "subvip/danya.txt"
+  },
+  "timur": {
+    "status": "active",
+    "expire": "2026-08-01",
+    "sub": "subvip/timur.txt"
+  }
+}
