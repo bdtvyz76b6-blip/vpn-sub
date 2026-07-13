@@ -1,0 +1,19 @@
+
+#profile-title: 👑🦅 Orel VPN
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/orrelvpnbot
+#announce: 👑 Индивидуальный VIP-доступ. Сервера со скоростью до 5 гб/сек 🔒
+
+vless://945e5966-78bb-413d-95fe-67476332e61b@pl.tlsov.pro:443?type=tcp&security=reality&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&fp=qq&sni=ads.x5.ru&sid=1000&flow=xtls-rprx-vision#🇵🇱 Польша VIP 👑
+
+vless://945e5966-78bb-413d-95fe-67476332e61b@nl.tlsov.pro:443?type=tcp&security=reality&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&fp=qq&sni=ads.x5.ru&sid=1000&flow=xtls-rprx-vision#🇳🇱 Нидерланды VIP 👑
+
+vless://945e5966-78bb-413d-95fe-67476332e61b@fi.tlsov.pro:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision#🇫🇮 Финляндия VIP 👑
+
+vless://945e5966-78bb-413d-95fe-67476332e61b@de.tlsov.pro:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision#🇩🇪 Германия VIP 👑
+
+vless://945e5966-78bb-413d-95fe-67476332e61b@de.tlsov.pro:8443?type=grpc&security=reality&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&serviceName=ads.x5.ru#🇩🇪 Германия-2 VIP 👑
+
+vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?type=grpc&security=reality&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇪🇺 LTE ULTRA VIP 👑
+
+vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?type=grpc&security=reality&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇩🇪 LTE ULTRA-2 VIP 👑
