@@ -16,4 +16,4 @@ vless://945e5966-78bb-413d-95fe-67476332e61b@de.tlsov.pro:8443?type=grpc&securit
 
 vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?type=grpc&security=reality&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇪🇺 LTE ULTRA VIP 👑
 
-vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?type=grpc&security=reality&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇩🇪 LTE ULTRA-2 VIP 👑
+vless://945e5966-78bb-413d-95fe-67476332e61b@goo
