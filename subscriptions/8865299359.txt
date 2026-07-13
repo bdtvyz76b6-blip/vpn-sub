@@ -2,18 +2,18 @@
 #profile-title: 👑🦅 Orel VPN
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/orrelvpnbot
-#announce: 👑 Индивидуальный VIP-доступ. Сервера со скоростью до 5 гб/сек 🔒
+#announce: 👑 Индивидуальный VIP-доступ. Сервера со скоростью до 5 Гбит/с 🔒
 
-vless://945e5966-78bb-413d-95fe-67476332e61b@pl.tlsov.pro:443?type=tcp&security=reality&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&fp=qq&sni=ads.x5.ru&sid=1000&flow=xtls-rprx-vision#🇵🇱 Польша VIP 👑
+vless://945e5966-78bb-413d-95fe-67476332e61b@pl.tlsov.pro:443?type=tcp&security=reality&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&fp=qq&sni=ads.x5.ru&sid=1000&flow=xtls-rprx-vision#🇵🇱 Польша MEGA 👑
 
-vless://945e5966-78bb-413d-95fe-67476332e61b@nl.tlsov.pro:443?type=tcp&security=reality&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&fp=qq&sni=ads.x5.ru&sid=1000&flow=xtls-rprx-vision#🇳🇱 Нидерланды VIP 👑
+vless://945e5966-78bb-413d-95fe-67476332e61b@nl.tlsov.pro:443?type=tcp&security=reality&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&fp=qq&sni=ads.x5.ru&sid=1000&flow=xtls-rprx-vision#🇳🇱 Нидерланды MEGA 👑
 
-vless://945e5966-78bb-413d-95fe-67476332e61b@fi.tlsov.pro:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision#🇫🇮 Финляндия VIP 👑
+vless://945e5966-78bb-413d-95fe-67476332e61b@fi.tlsov.pro:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision#🇫🇮 Финляндия MEGA 👑
 
-vless://945e5966-78bb-413d-95fe-67476332e61b@de.tlsov.pro:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision#🇩🇪 Германия VIP 👑
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=33432ews-topology-gslb-yccdn.ru&fp=firefox&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&sid=d9662905&encryption=none#🇳🇴 Норвегия MEGA 👑
 
-vless://945e5966-78bb-413d-95fe-67476332e61b@de.tlsov.pro:8443?type=grpc&security=reality&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&serviceName=ads.x5.ru#🇩🇪 Германия-2 VIP 👑
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&encryption=none#🇩🇪 Германия MEGA 👑
 
-vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?type=grpc&security=reality&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇪🇺 LTE ULTRA VIP 👑
+vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?type=ws&security=tls&sni=sw-1-al.hysteria.ltd&host=sw-1-al.hysteria.ltd&path=%2Fws&fp=random&encryption=none#🇫🇮 LTE MEGA | Finland 👑
 
-vless://945e5966-78bb-413d-95fe-67476332e61b@goodwin-pro.tlsov.pro:443?type=grpc&security=reality&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=50#🇩🇪 LTE ULTRA-2 VIP 👑
+vless://1e06c388-d31c-420e-916a-94a990648e34@89.208.230.241:5443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&fp=safari&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&encryption=none#🇱🇻 LTE MEGA | Latvia 👑
