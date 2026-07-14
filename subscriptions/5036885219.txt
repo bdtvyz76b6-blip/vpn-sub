@@ -1,0 +1,19 @@
+
+#profile-title: 👑🦅 Orel VPN
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/orrelvpnbot
+#announce: 👑 Индивидуальный VIP-доступ. Сервера со скоростью до 5 гб/сек 🔒
+
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&encryption=none#🇵🇱 Польша MEGA 👑
+
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?type=ws&security=none&host=rukr.speedload.ru&path=%2Fws&encryption=none#🇳🇱 Нидерланды MEGA 👑
+
+hy2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443/?sni=musicclips.videolinks.ru&insecure=0&obfs=salamander&obfs-password=8zzng75tz4tf82pj#🇫🇮 Финляндия MEGA 👑
+
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=33432ews-topology-gslb-yccdn.ru&fp=firefox&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&sid=d9662905&encryption=none#🇳🇴 Норвегия MEGA 👑
+
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&fp=firefox&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4&encryption=none#🇩🇪 Германия MEGA 👑
+
+vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?type=ws&security=tls&sni=sw-1-al.hysteria.ltd&host=sw-1-al.hysteria.ltd&path=%2Fws&fp=random&encryption=none#🇫🇮 LTE MEGA | Finland 👑
+
+vless://1e06c388-d31c-420e-916a-94a990648e34@89.208.230.241:5443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&fp=safari&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&encryption=none#🇱🇻 LTE MEGA | Latvia 👑
