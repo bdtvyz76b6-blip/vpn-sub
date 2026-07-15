@@ -14,8 +14,6 @@ vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security
 
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&encryption=none#🇩🇪 Германия MEGA 👑
 
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?type=ws&security=tls&sni=sw-1-al.hysteria.ltd&host=sw-1-al.hysteria.ltd&path=%2Fws&fp=random&encryption=none#🇫🇮 LTE MEGA | Finland 👑
+vless://ee45657e-7f98-11f1-a763-a6557d712d8f@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=5b9dc5fe4ad87cc2&serviceName=grpc-direct&encryption=none#🇸🇴 LTE | самый быстрый ⚡️
 
-vless://1e06c388-d31c-420e-916a-94a990648e34@89.208.230.241:5443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&fp=safari&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&encryption=none#🇱🇻 LTE MEGA | Latvia 👑
-
-vless://45acd540-aee6-4d82-bd2b-44e9111349b4@37.9.4.125:9443?type=grpc&security=reality&sni=m.vk.ru&fp=qq&pbk=-pNcR_wMIbwNYzMNv2Ql3WNhWAQ9Jq8hote4o33y4jw&sid=846229eb47b3a5c9#🇳🇴 LTE MEGA | Norway 👑
+vless://ee45657e-7f98-11f1-a763-a6557d712d8f@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=5b9dc5fe4ad87cc2&serviceName=grpc-direct&encryption=none#🇸🇴 LTE | обход глушилок 📡📶
