@@ -4,6 +4,8 @@
 #profile-web-page-url: https://t.me/orrelvpnbot
 #announce: 👑 Индивидуальный VIP-доступ. Сервера со скоростью до 5 гб/сек 🔒
 
+vless://bde22280-b70e-455e-a9b0-101fa31ca064@64.188.81.56:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SwfpVdTE6Ay33LQpgRl2Q97t7HFrGREkpE7E1A6pCD4&flow=xtls-rprx-vision&encryption=none#🇪🇺 Wi-fi | Автовыбор ⚡️
+
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&encryption=none#🇵🇱 Польша MEGA 👑
 
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?type=ws&security=none&host=rukr.speedload.ru&path=%2Fws&encryption=none#🇳🇱 Нидерланды MEGA 👑
