@@ -14,4 +14,7 @@ vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security
 
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&fp=firefox&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4&encryption=none#🇩🇪 Германия MEGA 👑
 
+vless://ee45657e-7f98-11f1-a763-a6557d712d8f@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=5b9dc5fe4ad87cc2&serviceName=grpc-direct&encryption=none#🇸🇴 LTE | самый быстрый ⚡️
+
+vless://ee45657e-7f98-11f1-a763-a6557d712d8f@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=5b9dc5fe4ad87cc2&serviceName=grpc-direct&encryption=none#🇸🇴 LTE | обход глушилок 📡📶
 
