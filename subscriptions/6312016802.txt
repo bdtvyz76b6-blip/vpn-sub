@@ -1,23 +1,33 @@
 
 #profile-title: 👑🦅 Orel VPN
 #profile-update-interval: 1
-#profile-web-page-url: https://t.me/orrelvpnbot
-#announce: 👑 Индивидуальный VIP-доступ. Сервера со скоростью до 5 гб/сек 🔒
+#profile-web-page-url: https://t.me/orelvppnbot
+#announce: 👑 Индивидуальный VIP-доступ. Сервера со скоростью до 5 Гбит/с 🔒
+
 
 vless://bde22280-b70e-455e-a9b0-101fa31ca064@64.188.81.56:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SwfpVdTE6Ay33LQpgRl2Q97t7HFrGREkpE7E1A6pCD4&flow=xtls-rprx-vision&encryption=none#🇪🇺 🛜 | Автовыбор ⚡️
 
+
 vless://945e5966-78bb-413d-95fe-67476332e61b@pl.tlsov.pro:443?type=tcp&security=reality&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&fp=qq&sni=ads.x5.ru&sid=1000&flow=xtls-rprx-vision#🇵🇱 Польша MEGA 👑
+
 
 vless://945e5966-78bb-413d-95fe-67476332e61b@nl.tlsov.pro:443?type=tcp&security=reality&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&fp=qq&sni=ads.x5.ru&sid=1000&flow=xtls-rprx-vision#🇳🇱 Нидерланды MEGA 👑
 
+
 vless://945e5966-78bb-413d-95fe-67476332e61b@fi.tlsov.pro:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision#🇫🇮 Финляндия MEGA 👑
+
 
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=33432ews-topology-gslb-yccdn.ru&fp=firefox&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&sid=d9662905&encryption=none#🇳🇴 Норвегия MEGA 👑
 
+
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&encryption=none#🇩🇪 Германия MEGA 👑
+
 
 vless://f7c19962-ae9e-4431-8ddc-276bcd45280a@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=2b779609&serviceName=grpc&mode=multi#🇸🇴 LTE | для интернета ⚡️
 
+
 vless://ebaa360a-80a6-11f1-bcd8-de2c52a7d0dc@89.208.231.82:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&serviceName=grpc-direct#🇸🇴 LTE | обход 📡
 
+
 vless://6ab08b9a-abaf-470f-93b5-50c7d5eddd3e@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=0ed5a66f&serviceName=grpc&mode=multi#🇸🇴 LTE | универсальный 📶
+
