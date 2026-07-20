@@ -1,23 +1,41 @@
 #profile-title: 📶 Orel VPN LTE
 #profile-update-interval: 1
 #subscription-userinfo: expire=1893445200; total=0; used=0
-#profile-web-page-url: https://t.me/orelvpnnbot
+#profile-web-page-url: https://t.me/orelvppnbot
 #announce: 📶 LTE-сервера для платной подписки
 
 vless://15d8d630-8308-11f1-9ca5-1e6febe3e1df@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&serviceName=grpc-direct#📶 LTE | №1
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?type=ws&security=tls&sni=furrycdn.net&fp=chrome&host=furrycdn.net&path=%2Fapi%2Fv1%2Fvideo-stream#📶 LTE | №2
+vless://d8016f57-b34f-41ea-aca4-ce0d4131d980@95.181.212.109:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&pbk=xM7dyVtRXmZoSTY0S38BAC0XZrcE3qoWyu-PWIAi9ms&sid=4257ea33bd10bc0e#📶 LTE | №2
 
 vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=fffc6099&serviceName=grpc&mode=multi#📶 LTE | №3
 
 vless://15d8d630-8308-11f1-9ca5-1e6febe3e1df@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&serviceName=grpc-direct#📶 LTE | №4
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?type=ws&security=tls&sni=furrycdn.net&fp=chrome&host=furrycdn.net&path=%2Fapi%2Fv1%2Fvideo-stream#📶 LTE | №5
+vless://d8016f57-b34f-41ea-aca4-ce0d4131d980@95.181.212.109:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&pbk=xM7dyVtRXmZoSTY0S38BAC0XZrcE3qoWyu-PWIAi9ms&sid=4257ea33bd10bc0e#📶 LTE | №5
 
 vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=fffc6099&serviceName=grpc&mode=multi#📶 LTE | №6
 
 vless://15d8d630-8308-11f1-9ca5-1e6febe3e1df@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&serviceName=grpc-direct#📶 LTE | №7
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?type=ws&security=tls&sni=furrycdn.net&fp=chrome&host=furrycdn.net&path=%2Fapi%2Fv1%2Fvideo-stream#📶 LTE | №8
+vless://d8016f57-b34f-41ea-aca4-ce0d4131d980@95.181.212.109:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&pbk=xM7dyVtRXmZoSTY0S38BAC0XZrcE3qoWyu-PWIAi9ms&sid=4257ea33bd10bc0e#📶 LTE | №8
 
 vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=fffc6099&serviceName=grpc&mode=multi#📶 LTE | №9
+
+vless://15d8d630-8308-11f1-9ca5-1e6febe3e1df@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&serviceName=grpc-direct#📶 LTE | №10
+
+vless://d8016f57-b34f-41ea-aca4-ce0d4131d980@95.181.212.109:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&pbk=xM7dyVtRXmZoSTY0S38BAC0XZrcE3qoWyu-PWIAi9ms&sid=4257ea33bd10bc0e#📶 LTE | №11
+
+vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=fffc6099&serviceName=grpc&mode=multi#📶 LTE | №12
+
+vless://15d8d630-8308-11f1-9ca5-1e6febe3e1df@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&serviceName=grpc-direct#📶 LTE | №13
+
+vless://d8016f57-b34f-41ea-aca4-ce0d4131d980@95.181.212.109:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&pbk=xM7dyVtRXmZoSTY0S38BAC0XZrcE3qoWyu-PWIAi9ms&sid=4257ea33bd10bc0e#📶 LTE | №14
+
+vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=fffc6099&serviceName=grpc&mode=multi#📶 LTE | №15
+
+vless://15d8d630-8308-11f1-9ca5-1e6febe3e1df@5.188.140.216:2053?type=grpc&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&serviceName=grpc-direct#📶 LTE | №16
+
+vless://d8016f57-b34f-41ea-aca4-ce0d4131d980@95.181.212.109:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&pbk=xM7dyVtRXmZoSTY0S38BAC0XZrcE3qoWyu-PWIAi9ms&sid=4257ea33bd10bc0e#📶 LTE | №17
+
+vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=fffc6099&serviceName=grpc&mode=multi#📶 LTE | №18
