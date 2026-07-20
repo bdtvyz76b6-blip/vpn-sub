@@ -4,6 +4,4 @@
 #profile-web-page-url: https://t.me/orelvpnnbot
 #announce: 🛜 Сервера WiFi. Обходы Б/С только в платной версии 📶.
 
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=33432ews-topology-gslb-yccdn.ru&fp=firefox&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&sid=d9662905&encryption=none#🇳🇴 Norway 🦅
-
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&encryption=none#🇩🇪 Germany 🦅
+vless://7e6873f9-b65a-4538-803c-caefee6cf782@64.188.81.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=SwfpVdTE6Ay33LQpgRl2Q97t7HFrGREkpE7E1A6pCD4&encryption=none#🇪🇺 Europe 🦅
