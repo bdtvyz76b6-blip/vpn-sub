@@ -4,10 +4,10 @@
 #profile-web-page-url: https://t.me/orelvpnnbot
 #announce: 🛜 Сервера WiFi. Обходы Б/С только в платной версии 📶.
 
-vless://7e6873f9-b65a-4538-803c-caefee6cf782@64.188.81.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=SwfpVdTE6Ay33LQpgRl2Q97t7HFrGREkpE7E1A6pCD4&encryption=none#🇪🇺 Europe 🦅
+vless://d71a46d8-1211-4fa9-83a9-2986afea45af@95.85.226.66:443?type=tcp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=ne55.sonicsonic.icu&flow=xtls-rprx-vision&sid=&spx=/#🇪🇺 Europa 🦅
 
-vless://d71a46d8-1211-4fa9-83a9-2986afea45af@83.219.97.47:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi20.bearbeer.digital&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&encryption=none#🇫🇮 Finland 🦅
+vless://c478248b-6e59-424f-82f1-4791e7f8c4bb@189.74.117.4:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=edge&sni=api.yandex-api.org&flow=xtls-rprx-vision&sid=122218f4c1f172e4&spx=/#🇧🇷 Brazil 🦅
 
-vless://d71a46d8-1211-4fa9-83a9-2986afea45af@95.85.253.107:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl20.bearbeer.digital&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&encryption=none#🇵🇱 Poland 🦅
+vless://7e6873f9-b65a-4538-803c-caefee6cf782@64.188.81.56:443?type=tcp&security=reality&pbk=SwfpVdTE6Ay33LQpgRl2Q97t7HFrGREkpE7E1A6pCD4&fp=qq&sni=api-maps.yandex.ru&flow=xtls-rprx-vision&sid=&spx=/#🇺🇸 USA 🦅
 
-vless://7e6873f9-b65a-4538-803c-caefee6cf782@37.221.210.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=hu10.bearbeer.digital&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&encryption=none#🇭🇺 Hungary 🦅
+vless://d71a46d8-1211-4fa9-83a9-2986afea45af@83.219.97.47:443?type=tcp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=fi20.bearbeer.digital&flow=xtls-rprx-vision&sid=&spx=/#🇫🇮 Finland 🦅
