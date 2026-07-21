@@ -1,10 +1,10 @@
 #profile-title: 🛜 Орёл VPN free
 #profile-update-interval: 1
 #subscription-userinfo: expire=5774966400; total=109951162777600; used=0
-#profile-web-page-url: https://t.me/orelvpnnbot
+#profile-web-page-url: https://t.me/orelvpntopbot
 #announce: 🛜 Сервера WiFi. Обходы Б/С только в платной версии 📶.
 
-vless://d71a46d8-1211-4fa9-83a9-2986afea45af@95.85.226.66:443?type=tcp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=ne55.sonicsonic.icu&flow=xtls-rprx-vision&sid=&spx=/#🇪🇺 Europa 🦅
+vless://d71a46d8-1211-4fa9-83a9-2986afea45af@95.85.226.66:443?type=tcp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=ne55.sonicsonic.icu&flow=xtls-rprx-vision&sid=&spx=/#🇪🇺 Europe 🦅
 
 vless://c478248b-6e59-424f-82f1-4791e7f8c4bb@189.74.117.4:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=edge&sni=api.yandex-api.org&flow=xtls-rprx-vision&sid=122218f4c1f172e4&spx=/#🇧🇷 Brazil 🦅
 
