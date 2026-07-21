@@ -4,12 +4,8 @@
 #profile-web-page-url: https://t.me/orelvpnnbot
 #announce: 📶 LTE-сервера для платной подписки
 
-vless://efbe3c6c-849a-11f1-9ca5-1e6febe3e1df@89.208.231.82:2053?type=grpc&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=5b9dc5fe4ad87cc2&serviceName=grpc-direct#🇪🇺 ОБХОД Б/С 🦅 | №1
+vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №1
 
-vless://efbe3c6c-849a-11f1-9ca5-1e6febe3e1df@5.188.140.194:2053?type=grpc&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=4b685844d0b4f724&serviceName=grpc-direct#🇪🇺 ОБХОД Б/С 🦅 | №2
+vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №2
 
-vless://efbe3c6c-849a-11f1-9ca5-1e6febe3e1df@89.208.231.82:2053?type=grpc&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=5b9dc5fe4ad87cc2&serviceName=grpc-direct#🇪🇺 ОБХОД Б/С 🦅 | №3
-
-vless://efbe3c6c-849a-11f1-9ca5-1e6febe3e1df@5.188.140.194:2053?type=grpc&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=4b685844d0b4f724&serviceName=grpc-direct#🇪🇺 ОБХОД Б/С 🦅 | №4
-
-vless://efbe3c6c-849a-11f1-9ca5-1e6febe3e1df@89.208.231.82:2053?type=grpc&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=5b9dc5fe4ad87cc2&serviceName=grpc-direct#🇪🇺 ОБХОД Б/С 🦅 | №5
+vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №3
