@@ -4,16 +4,11 @@
 #profile-web-page-url: https://t.me/orelvpntopbot
 #announce: 📶 LTE-сервера для платной подписки
 
-vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №1
+vless://b8a4fa04-8535-11f1-9ca5-1e6febe3e1df@95.163.183.109:2053?type=grpc&mode=gun&serviceName=grpc-direct&security=reality&fp=chrome&sni=hh.ru&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=e432eea05ffadf84#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BD%D0%B0%20LTE%20%7C%20%E2%84%961
 
-vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №2
+vless://209703c5-3dd8-4bfb-984c-e81e9d90b561@94.198.218.42:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=lJhgPoDssG7uE2eKijjz3I4Hsb7CZpNXmVoQOBNJaFY&sid=9bc87ac6e147#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BD%D0%B0%20LTE%20%7C%20%E2%84%962
 
-vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №3
+vless://755326c0-e79e-4cfa-b4ac-04e719e8158a@90.156.218.37:8443?type=grpc&mode=gun&serviceName=grpc&security=reality&fp=qq&sni=ads.x5.ru&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&sid=dfdee30a27b11f0f#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BD%D0%B0%20LTE%20%7C%20%E2%84%963
 
-vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №4
-
-vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №5
-
-vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №6
-
-vless://f4d9e894-437c-42f4-8a1a-495403e80c92@194.55.239.250:443?type=grpc&security=reality&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&fp=firefox&sni=yastatic.ru&sid=3b4237ce&serviceName=grpc&mode=multi#🇪🇺 ОБХОД Б/С 🦅 | №7
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?type=ws&host=furrycdn.net&path=/api/v1/make-love-not-war&security=tls&sni=furrycdn.net&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BD%D0%B0%20LTE%20%7C%20%E2%84%964
+Ну вот сделай 
