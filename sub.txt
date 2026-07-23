@@ -4,10 +4,14 @@
 #profile-web-page-url: https://t.me/orelvpntopbot
 #announce: 🛜 Сервера WiFi. Обходы Б/С только в платной версии 📶.
 
-vless://d71a46d8-1211-4fa9-83a9-2986afea45af@95.85.226.66:443?type=tcp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=ne55.sonicsonic.icu&flow=xtls-rprx-vision&sid=&spx=/#🇪🇺 Europe 🦅
+vless://2eacd403-68af-4e92-a57b-0a887a213f3b@189.74.117.4:443?security=reality&flow=xtls-rprx-vision&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Wi-Fi%20%7C%20%E2%84%961%20%F0%9F%A6%85
 
-vless://c478248b-6e59-424f-82f1-4791e7f8c4bb@189.74.117.4:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=edge&sni=api.yandex-api.org&flow=xtls-rprx-vision&sid=122218f4c1f172e4&spx=/#🇧🇷 Brazil 🦅
+vless://2eacd403-68af-4e92-a57b-0a887a213f3b@189.74.118.2:443?security=reality&flow=xtls-rprx-vision&sni=api.yandex-developer.org&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Wi-Fi%20%7C%20%E2%84%962%20%F0%9F%A6%85
 
-vless://7e6873f9-b65a-4538-803c-caefee6cf782@64.188.81.56:443?type=tcp&security=reality&pbk=SwfpVdTE6Ay33LQpgRl2Q97t7HFrGREkpE7E1A6pCD4&fp=qq&sni=api-maps.yandex.ru&flow=xtls-rprx-vision&sid=&spx=/#🇺🇸 USA 🦅
+vless://2eacd403-68af-4e92-a57b-0a887a213f3b@189.74.116.5:443?security=reality&flow=xtls-rprx-vision&sni=api.yandex-dev.com&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Wi-Fi%20%7C%20%E2%84%963%20%F0%9F%A6%85
 
-vless://d71a46d8-1211-4fa9-83a9-2986afea45af@83.219.97.47:443?type=tcp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=fi20.bearbeer.digital&flow=xtls-rprx-vision&sid=&spx=/#🇫🇮 Finland 🦅
+vless://c27b7e48-eefe-4833-8671-2d0a281387cf@217.60.34.120:1337?security=reality&flow=xtls-rprx-vision&sni=nider2.xanka.best&fp=firefox&pbk=zBW_LgbS9MYBIBGKPD1SzQVdTXcFpQNHhN0ievOqvEQ&sid=5aa3430e&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Wi-Fi%20%7C%20%E2%84%964%20%F0%9F%A6%85
+
+vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.212:448?security=reality&sni=www.samsung.com&fp=firefox&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&sid=9e96f30390d6be81&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Wi-Fi%20%7C%20%E2%84%965%20%F0%9F%A6%85
+
+vless://dde3978f-3179-4611-86f2-eb1eab0007cc@89.125.124.104:1337?security=reality&flow=xtls-rprx-vision&sni=eng.xanka.best&fp=firefox&pbk=MKoeqrRMeryTxhSbcrPmoMZKKtd9268vwsiZ22w2Gig&sid=be901ea3&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20Wi-Fi%20%7C%20%E2%84%966%20%F0%9F%A6%85
