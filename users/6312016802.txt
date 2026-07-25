@@ -3,7 +3,7 @@
 
 #profile-update-interval: 1
 
-#announce: Подписка активна до 28.07.2026
+#announce: Подписка активна до 23.10.2026
 
 
 
