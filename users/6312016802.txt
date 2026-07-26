@@ -1,10 +1,20 @@
 
-#profile-title: 🦅 Orel VPN
+#profile-title: 🦅 Orel VPN VIP
 
 #profile-update-interval: 1
 
-#announce: Оформите подписку через @orelvpntopbot
+#announce: Подписка активна до 29.07.2026
 
 
-vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#❌ Подписка отсутствует
+
+vless://8fbd33cf-ff7b-4352-a48d-0cd4f723c7e4@189.74.106.66:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=safari&sni=api.yandex-cloud.org&sid=122218f4c1f172e4&flow=xtls-rprx-vision&encryption=none#🇧🇷 Brazil
+
+
+vless://8fbd33cf-ff7b-4352-a48d-0cd4f723c7e4@189.74.117.4:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=edge&sni=api.yandex-api.org&sid=122218f4c1f172e4&flow=xtls-rprx-vision&encryption=none#🇧🇷 Brazil Reserve
+
+
+vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@95.85.253.107:443?type=tcp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=pl20.bearbeer.digital&flow=xtls-rprx-vision&encryption=none&spx=/#🇳🇱 Netherlands
+
+
+vless://96006428-88d4-11f1-9ca5-1e6febe3e1df@89.208.229.243:2053?type=grpc&serviceName=grpc-direct&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=7824dfd19eab1acc&encryption=none#🇸🇨 LTE | Универсальный
 
