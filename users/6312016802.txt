@@ -14,4 +14,4 @@ vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@77.91.68.206:443?type=tcp&security=
 
 vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@192.241.126.174:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=ads.yandex-dev.online&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇺🇸 usa
 
-vless://42d3cfb6-8a1d-11f1-9ca5-1e6febe3e1df@95.163.183.109:2053?type=grpc&serviceName=grpc-direct&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=e432eea05ffadf84#🇸🇨 LTE | universal
+vless://42d3cfb6-8a1d-11f1-9ca5-1e6febe3e1df@89.208.231.82:2053?type=grpc&serviceName=grpc-direct&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=5b9dc5fe4ad87cc2#🇸🇨 LTE | universal
