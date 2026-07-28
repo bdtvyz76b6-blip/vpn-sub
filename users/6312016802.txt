@@ -12,6 +12,6 @@ vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@159.195.47.170:443?type=tcp&securit
 
 vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@77.91.68.206:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=am.c2horizon.app&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇳🇱 netherlands 2
 
-vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@192.241.126.174:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=ads.yandex-dev.online&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇺🇸 USA
+vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@192.241.126.174:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=ads.yandex-dev.online&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇺🇸 usa
 
-vless://4fcd5a7f-0cd8-4259-a8cc-65c23ab81a13@212.193.153.47:443?type=ws&security=tls&host=s30515.cdn.ngenix.net&path=/v1/data/sync/&sni=s30515.cdn.ngenix.net&fp=chrome#🇸🇨 LTE | Universal
+vless://42d3cfb6-8a1d-11f1-9ca5-1e6febe3e1df@95.163.183.109:2053?type=grpc&serviceName=grpc-direct&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=e432eea05ffadf84#🇸🇨 LTE | universal
