@@ -6,12 +6,10 @@
 #announce: Подписка активна до 01.08.2026
 
 
-vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@189.74.115.2:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=api.yandex-dev.online&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇧🇷 brazil
+vless://8b706aff-ca60-4632-9658-aeb5c0f48561@84.32.102.222:443?type=tcp&security=reality&pbk=TFT7MPZtAMZ7sQgoNlxK3dIX1j3I1oSyzl4fMXyk6Ww&fp=firefox&sni=nlch.dgtserv.xyz&sid=07494b3ed9ed2128&flow=xtls-rprx-vision#🇳🇱 нидерланды
 
-vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@159.195.47.170:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=at.c2horizon.app&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇳🇱 netherlands
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&sni=secure.furrycdn.net&fp=chrome&flow=xtls-rprx-vision#🇳🇱 нидерланды-2
 
-vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@77.91.68.206:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=am.c2horizon.app&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇳🇱 netherlands 2
+vless://d6f56765-c9b4-4b40-8d0c-48b724886074@78.159.245.32:28473?type=tcp&security=tls&sni=secure.furrycdn.net&fp=firefox&flow=xtls-rprx-vision#🇳🇱 нидерланды-3
 
-vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@192.241.126.174:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=ads.yandex-dev.online&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇺🇸 usa
-
-vless://42d3cfb6-8a1d-11f1-9ca5-1e6febe3e1df@89.208.231.82:2053?type=grpc&serviceName=grpc-direct&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&fp=chrome&sni=hh.ru&sid=5b9dc5fe4ad87cc2#🇸🇨 LTE | universal
+vless://d82891a6-48da-4b5a-bc50-3d861478be2a@91.185.83.94:4443?type=tcp&security=reality&pbk=7nfL5nnISA027dQ-thHwql8JquJwH09zZJrYrw994XU&fp=firefox&sni=5post-gate.x5.ru&flow=xtls-rprx-vision#🇳🇱 нидерланды-4
