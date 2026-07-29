@@ -13,3 +13,5 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&securi
 vless://d6f56765-c9b4-4b40-8d0c-48b724886074@78.159.245.32:28473?type=tcp&security=tls&sni=secure.furrycdn.net&fp=firefox&flow=xtls-rprx-vision#🇳🇱 нидерланды-3
 
 vless://d82891a6-48da-4b5a-bc50-3d861478be2a@91.185.83.94:4443?type=tcp&security=reality&pbk=7nfL5nnISA027dQ-thHwql8JquJwH09zZJrYrw994XU&fp=firefox&sni=5post-gate.x5.ru&flow=xtls-rprx-vision#🇳🇱 нидерланды-4
+
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#обходы б/с скоро ⬆️
