@@ -3,7 +3,7 @@
 
 #profile-update-interval: 1
 
-#announce: Подписка активна до 31.07.2026
+#announce: Подписка активна до 01.08.2026
 
 
 vless://8def1e12-9c10-48a4-b9eb-a5cfdd552e18@189.74.115.2:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=qq&sni=api.yandex-dev.online&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇧🇷 brazil
