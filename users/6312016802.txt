@@ -1,17 +1,10 @@
 
-#profile-title: ☂️ ixxy vip
+#profile-title: ☂️ ixxy vpn
 
 #profile-update-interval: 1
 
-#announce: Подписка активна до 2026-08-15
+#announce: Активируйте подписку через @orelvpntopbot
 
 
-vless://8b706aff-ca60-4632-9658-aeb5c0f48561@84.32.102.222:443?type=tcp&security=reality&pbk=TFT7MPZtAMZ7sQgoNlxK3dIX1j3I1oSyzl4fMXyk6Ww&fp=firefox&sni=nlch.dgtserv.xyz&sid=07494b3ed9ed2128&flow=xtls-rprx-vision#🇳🇱 нидерланды
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#⛔ Активируйте подписку
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&sni=secure.furrycdn.net&fp=chrome&flow=xtls-rprx-vision#🇳🇱 нидерланды-2 (можно LTE)
-
-vless://d82891a6-48da-4b5a-bc50-3d861478be2a@91.185.83.94:4443?type=tcp&security=reality&pbk=7nfL5nnISA027dQ-thHwql8JquJwH09zZJrYrw994XU&fp=firefox&sni=5post-gate.x5.ru&flow=xtls-rprx-vision#🇳🇱 нидерланды-3
-
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.85.119:443?encryption=none&security=reality&sni=yandex.ru&fp=firefox&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&sid=27e53bbcab7593d7&spx=%2F&type=tcp&flow=xtls-rprx-vision#🇸🇨 LTE | обход б/с №1
-
-vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#обходы б/с и wifi ⬆️
