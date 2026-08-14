@@ -15,4 +15,4 @@ vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@mur.burladuck.com:443?encryption=no
 
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@185.229.9.236:49005?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=dzjhpiDcvFBRzIODtrUVADf24qFE-636IVIdEof0XFQ&sid=512acc0133720b9e#🇷🇺 При глушилках #2
 
-vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Обходы б/с и wifi ⬆️
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Все доступные сервера ⬆️
