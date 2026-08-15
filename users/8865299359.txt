@@ -17,6 +17,8 @@ vless://a123b089-a711-4d15-bc4e-47a2cf44e246@31.77.144.112:17833?encryption=none
 
 hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@dereserv.just-cloud.org:443?protocol=tls&sni=dereserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr#🇩🇪 Германия
 
+hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@dereserv.just-cloud.org:443?protocol=tls&sni=dereserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr#🇩🇪 Германия #2 ⚡️
+
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@usa.superbuba.top:443?encryption=none&security=reality&sni=usa.superbuba.top&fp=firefox&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&sid=9c2378562188c3cb&type=grpc#🇺🇸 США
 
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@it.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=it.superbuba.top&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&sid=4fa44664f6a566d3#🇮🇹 Италия
