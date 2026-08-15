@@ -1,18 +1,7 @@
-
-#profile-title: 🦅 Orel VPN
+#profile-title: ☂️ ixxy vpn
 
 #profile-update-interval: 1
 
-#announce: Подписка активна до 27.07.2026
+#announce: Активируйте подписку через @orelvpntopbot
 
-
-
-vless://8fbd33cf-ff7b-4352-a48d-0cd4f723c7e4@189.74.106.66:443?type=tcp&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&fp=safari&sni=api.yandex-cloud.org&sid=122218f4c1f172e4&flow=xtls-rprx-vision&encryption=none#🇧🇷 Brazil
-
-vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@37.221.210.181:443?type=xhttp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=hu007.bearbeer.digital&path=/&mode=auto&encryption=none#🇳🇱 Netherlands
-
-vless://26cd92ed-2bff-4e97-963a-d5ec374ba8f8@87.121.86.120:443?type=tcp&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=ee001.bearbeer.digital&flow=xtls-rprx-vision&encryption=none#🇧🇬 Bulgaria
-
-vless://0c1b9d61-377e-41d5-9be4-d0035d851a10@64.188.81.56:443?type=tcp&security=reality&pbk=SwfpVdTE6Ay33LQpgRl2Q97t7HFrGREkpE7E1A6pCD4&fp=qq&sni=api-maps.yandex.ru&flow=xtls-rprx-vision&encryption=none#🇺🇸 USA
-
-vless://4fcd5a7f-0cd8-4259-a8cc-65c23ab81a13@195.209.88.3:443?type=ws&security=tls&host=s30515.cdn.ngenix.net&path=/v1/data/sync/&fp=chrome&sni=s30515.cdn.ngenix.net&encryption=none#🇸🇨 LTE | Универсальный
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#⛔ Активируйте подписку
