@@ -1,7 +1,38 @@
-#profile-title: ☂️ ixxy vpn
+#profile-title: ☂️ ixxy vip
 
 #profile-update-interval: 1
 
-#announce: Активируйте подписку через @orelvpntopbot
+#announce: ‼️ Подписка активна до 16.08.2026 ‼️
+🆔 Ваш ID: 8865299359
 
-vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#⛔ Активируйте подписку
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@nl.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.superbuba.top&fp=firefox&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb#🇳🇱 Нидерланды
+
+hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@nlreserv.just-cloud.org:443?protocol=tls&sni=nlreserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr#🇳🇱 Нидерланды #2
+
+vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@ru20.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=wqAdpURdLWbn79pUufQzOKTaZwdqi19InTgQjVjo7iY#🇷🇺 Россия
+
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@rf6.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf6.o4ka-internet.com&fp=firefox&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#🇷🇺 Россия #2
+
+vless://a123b089-a711-4d15-bc4e-47a2cf44e246@31.77.144.112:17833?encryption=none&security=tls&sni=gate-v1.not-a-projects.xyz&fp=firefox&host=dl.google.com&path=/&type=httpupgrade#🇸🇪 Швеция
+
+hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@dereserv.just-cloud.org:443?protocol=tls&sni=dereserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr#🇩🇪 Германия
+
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@usa.superbuba.top:443?encryption=none&security=reality&sni=usa.superbuba.top&fp=firefox&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&sid=9c2378562188c3cb&type=grpc#🇺🇸 США
+
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@it.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=it.superbuba.top&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&sid=4fa44664f6a566d3#🇮🇹 Италия
+
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@lt.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lt.superbuba.top&fp=firefox&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk&sid=4fa44664f6a566d3#🇱🇹 Литва
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@94.103.2.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru01.skorostnet.space&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#🇲🇩 Молдова
+
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@mur.burladuck.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=nkpZyXHfG7nhEh1vjBjEDV-Tn7UhHEb5iN9iA8gc9VE&sid=c31188450fe50718#🇷🇺 При глушилках #1
+
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@185.229.9.236:49005?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=dzjhpiDcvFBRzIODtrUVADf24qFE-636IVIdEof0XFQ&sid=512acc0133720b9e#🇷🇺 При глушилках #2
+
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@mur.burladuck.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=nkpZyXHfG7nhEh1vjBjEDV-Tn7UhHEb5iN9iA8gc9VE&sid=c31188450fe50718#🇷🇺 При глушилках #3
+
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@mur.burladuck.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&sid=7bb730e3e6616d31#🇷🇺 При глушилках #4
+
+vless://f9a4f49f-6a60-466f-9911-3e35acdc43e1@ncd.crsmaps.com:443?encryption=none&security=tls&sni=ncd.crsmaps.com&fp=qq&type=ws&host=ncd.crsmaps.com&path=/ws/notify/817522359&alpn=h3,h2#🇷🇺 При глушилках #5
+
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Приятного пользователя!
