@@ -8,7 +8,7 @@ vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@rf6.o4ka-internet.com:443?encryptio
 
 vless://a123b089-a711-4d15-bc4e-47a2cf44e246@31.77.144.112:17833?encryption=none&security=tls&sni=gate-v1.not-a-projects.xyz&fp=firefox&host=dl.google.com&path=/&type=httpupgrade#🇸🇪 Швеция
 
-vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@de.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇩🇪 Германия
+hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@dereserv.just-cloud.org:443?protocol=tls&sni=dereserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr#🇩🇪 Германия
 
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@usa.superbuba.top:443?encryption=none&security=reality&sni=usa.superbuba.top&fp=firefox&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&sid=9c2378562188c3cb&type=grpc#🇺🇸 США
 
