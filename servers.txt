@@ -8,6 +8,10 @@ vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@rf6.o4ka-internet.com:443?encryptio
 
 vless://a123b089-a711-4d15-bc4e-47a2cf44e246@31.77.144.112:17833?encryption=none&security=tls&sni=gate-v1.not-a-projects.xyz&fp=firefox&host=dl.google.com&path=/&type=httpupgrade#🇸🇪 Швеция
 
+vless://629f88a6-b20b-4489-a22f-4d8b418c0488@ee-t3.vinnypuxtomoon.today:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ee-t3.vinnypuxtomoon.today&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#🇪🇪 Эстония
+
+vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇫🇮 Финляндия
+
 hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@dereserv.just-cloud.org:443?protocol=tls&sni=dereserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr#🇩🇪 Германия
 
 hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@dereserv.just-cloud.org:443?protocol=tls&sni=dereserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr#🇩🇪 Германия #2 ⚡️
