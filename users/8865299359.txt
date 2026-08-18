@@ -2,7 +2,7 @@
 
 #profile-update-interval: 1
 
-#announce: ‼️ Подписка активна до 29.08.2057 ‼️
+#announce: ‼️ Подписка активна до 31.12.9999 ‼️
 🆔 Ваш ID: 8865299359
 
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@nl.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.superbuba.top&fp=firefox&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb#🇳🇱 Нидерланды
