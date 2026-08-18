@@ -1,7 +1,7 @@
-#profile-title: ⛔ ixxy vpn
+#profile-title: ☂️ ixxy vpn
 
 #profile-update-interval: 1
 
-#announce: Срок действия подписки закончился. Продлите у @orelvpntopbot
+#announce: Активируйте подписку через @orelvpntopbot
 
-vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#⛔ Подписка истекла
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#⛔ Активируйте подписку
