@@ -2,7 +2,7 @@
 
 #profile-update-interval: 1
 
-#announce: ‼️ Подписка активна до 19.08.2027 ‼️ __ 🆔 ID: 6312016802
+#announce: ‼️ Подписка активна до 31.12.9999 ‼️ __ 🆔 ID: 6312016802
 
 vless://f202c7ca-17b7-416d-b3a2-ac71d35afe9c@132.243.231.94:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se1.se-cdn.ru&fp=firefox&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8#🇪🇺 Европа
 
