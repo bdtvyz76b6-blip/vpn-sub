@@ -2,14 +2,15 @@
 
 #profile-update-interval: 1
 
-#announce: ‼️ Подписка активна до 20.08.2026 ‼️
-🆔 Ваш ID: 5163509667
+#announce: ‼️ Подписка активна до 20.08.2026 ‼️ __ 🆔 ID: 5163509667
 
 vless://f202c7ca-17b7-416d-b3a2-ac71d35afe9c@132.243.231.94:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se1.se-cdn.ru&fp=firefox&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8#🇪🇺 Европа
 
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@nl.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.superbuba.top&fp=firefox&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb#🇳🇱 Нидерланды
 
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@91.224.86.107:9830?encryption=none&security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&serviceName=grpc-tunnel#🇺🇦 Украина
+
+vless://ded4cb63-e401-47f6-9bb3-83f07ea559a3@nl1.app-sync-data.space:443?encryption=none&security=reality&sni=cloudflare.com&fp=qq&pbk=S5IX1oiVizdxEHw3A4bjP6_HOxFRIfroYOtq504wyiA&sid=9d3f7b2a5c0e8461&type=grpc&serviceName=auragrpc#🇲🇰 Северная Македония
 
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇫🇮 Финляндия
 
