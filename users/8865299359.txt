@@ -5,226 +5,1312 @@
 #announce: ‼️ Подписка активна до 25.08.2026 ‼️
 🆔 Ваш ID: 8865299359
 
-{
-  "log": { "loglevel": "warning" },
-  "inbounds": [
-    {
-      "tag": "socks",
-      "port": 10808,
-      "listen": "127.0.0.1",
-      "protocol": "socks",
-      "settings": { "udp": true, "auth": "noauth" },
-      "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] }
+[
+  {
+    "remarks": "🇪🇺 Европа",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
     },
-    {
-      "tag": "http",
-      "port": 10809,
-      "listen": "127.0.0.1",
-      "protocol": "http",
-      "settings": {}
-    }
-  ],
-  "outbounds": [
-    {
-      "tag": "🇪🇺 Европа",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [{
-          "address": "132.243.231.94",
-          "port": 443,
-          "users": [{
-            "id": "f202c7ca-17b7-416d-b3a2-ac71d35afe9c",
-            "encryption": "none",
-            "flow": "xtls-rprx-vision"
-          }]
-        }]
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
       },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "se1.se-cdn.ru",
-          "fingerprint": "firefox",
-          "publicKey": "nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q",
-          "shortId": "2d6d073dc88f22a8"
-        }
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
       }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
     },
-    {
-      "tag": "🇳🇱 Нидерланды",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [{
-          "address": "nl.superbuba.top",
-          "port": 443,
-          "users": [{
-            "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7",
-            "encryption": "none",
-            "flow": "xtls-rprx-vision"
-          }]
-        }]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "nl.superbuba.top",
-          "fingerprint": "firefox",
-          "publicKey": "z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo",
-          "shortId": "9c2378562188c3cb"
-        }
-      }
-    },
-    {
-      "tag": "🇺🇦 Украина",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [{
-          "address": "91.224.86.107",
-          "port": 9830,
-          "users": [{
-            "id": "2a650f3b-d95b-4bd6-aadf-16ccc0717155",
-            "encryption": "none"
-          }]
-        }]
-      },
-      "streamSettings": {
-        "network": "grpc",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "dl.google.com",
-          "fingerprint": "firefox",
-          "publicKey": "bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU",
-          "shortId": "aabb"
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "132.243.231.94",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "f202c7ca-17b7-416d-b3a2-ac71d35afe9c"
+                }
+              ]
+            }
+          ]
         },
-        "grpcSettings": { "serviceName": "grpc-tunnel" }
-      }
-    },
-    {
-      "tag": "🇫🇮 Финляндия",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [{
-          "address": "fin.just-cloud.org",
-          "port": 443,
-          "users": [{
-            "id": "d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7",
-            "encryption": "none",
-            "flow": "xtls-rprx-vision"
-          }]
-        }]
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q",
+            "serverName": "se1.se-cdn.ru",
+            "shortId": "2d6d073dc88f22a8",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
       },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "tradingview.com",
-          "fingerprint": "firefox",
-          "publicKey": "awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c"
-        }
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
       }
     },
-    {
-      "tag": "🇩🇪 Германия",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [{
-          "address": "germany.superbuba.top",
-          "port": 443,
-          "users": [{
-            "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7",
-            "encryption": "none",
-            "flow": "xtls-rprx-vision"
-          }]
-        }]
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇳🇱 Нидерланды",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
       },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "germany.superbuba.top",
-          "fingerprint": "firefox",
-          "publicKey": "rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs",
-          "shortId": "4fa44664f6a566d3"
-        }
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
       }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
     },
-    {
-      "tag": "🇮🇹 Италия",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [{
-          "address": "it.superbuba.top",
-          "port": 443,
-          "users": [{
-            "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7",
-            "encryption": "none",
-            "flow": "xtls-rprx-vision"
-          }]
-        }]
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "nl.superbuba.top",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo",
+            "serverName": "nl.superbuba.top",
+            "shortId": "9c2378562188c3cb",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
       },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "it.superbuba.top",
-          "fingerprint": "firefox",
-          "publicKey": "G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw",
-          "shortId": "4fa44664f6a566d3"
-        }
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
       }
     },
-    {
-      "tag": "🇱🇹 Литва",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [{
-          "address": "lt.superbuba.top",
-          "port": 443,
-          "users": [{
-            "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7",
-            "encryption": "none",
-            "flow": "xtls-rprx-vision"
-          }]
-        }]
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇺🇦 Украина",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
       },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "lt.superbuba.top",
-          "fingerprint": "firefox",
-          "publicKey": "vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk",
-          "shortId": "4fa44664f6a566d3"
-        }
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "91.224.86.107",
+              "port": 9830,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "2a650f3b-d95b-4bd6-aadf-16ccc0717155"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU",
+            "serverName": "dl.google.com",
+            "shortId": "aabb",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "grpcSettings": { "serviceName": "grpc-tunnel" }
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
       }
     },
-    {
-      "tag": "автовыбор",
-      "protocol": "vless",
-      "settings": null,
-      "balancer": {
-        "strategy": "roundRobin",
-        "selector": [
-          "🇪🇺 Европа",
-          "🇳🇱 Нидерланды",
-          "🇺🇦 Украина",
-          "🇫🇮 Финляндия",
-          "🇩🇪 Германия",
-          "🇮🇹 Италия",
-          "🇱🇹 Литва"
-        ]
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇫🇮 Финляндия",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "fin.just-cloud.org",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c",
+            "serverName": "tradingview.com",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
       }
     },
-    { "tag": "direct", "protocol": "freedom" },
-    { "tag": "block", "protocol": "blackhole" }
-  ],
-  "routing": {
-    "domainMatcher": "hybrid",
-    "domainStrategy": "IPIfNonMatch",
-    "rules": [
-      { "protocol": ["bittorrent"], "outboundTag": "direct" },
-      { "network": "tcp,udp", "outboundTag": "автовыбор" }
-    ]
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇩🇪 Германия",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "germany.superbuba.top",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs",
+            "serverName": "germany.superbuba.top",
+            "shortId": "4fa44664f6a566d3",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇮🇹 Италия",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "it.superbuba.top",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw",
+            "serverName": "it.superbuba.top",
+            "shortId": "4fa44664f6a566d3",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇱🇹 Литва",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "lt.superbuba.top",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk",
+            "serverName": "lt.superbuba.top",
+            "shortId": "4fa44664f6a566d3",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇪🇺 LTE | При глушилках #1",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "mur.burladuck.com",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "nkpZyXHfG7nhEh1vjBjEDV-Tn7UhHEb5iN9iA8gc9VE",
+            "serverName": "www.vk.com",
+            "shortId": "c31188450fe50718",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇪🇺 LTE | При глушилках #2",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "mur.burladuck.com",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "nkpZyXHfG7nhEh1vjBjEDV-Tn7UhHEb5iN9iA8gc9VE",
+            "serverName": "www.vk.com",
+            "shortId": "c31188450fe50718",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇪🇺 LTE | При глушилках #3",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "mur.burladuck.com",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "65761043-f5c1-4e7b-8c16-b72c7a3fa4b7"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4",
+            "serverName": "yandex.ru",
+            "shortId": "7bb730e3e6616d31",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "Спасибо что выбрали ixxy ❤️",
+    "dns": {
+      "queryStrategy": "UseIPv4",
+      "servers": ["8.8.8.8", "9.9.9.9"],
+      "tag": "dns-in"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": { "auth": "noauth", "udp": true },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": { "allowTransparent": false },
+        "sniffing": { "destOverride": ["http", "tls", "quic"], "enabled": true },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "access": "/private/var/mobile/Containers/Shared/AppGroup/68E5C2EB-300C-4EF4-9646-B2459ED73C32/Library/Application Support/Xray/logs/access.log",
+      "dnsLog": true,
+      "loglevel": "Warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "expired.invalid",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "00000000-0000-0000-0000-000000000000"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "chrome",
+            "publicKey": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "serverName": "expired.invalid",
+            "shortId": "",
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      { "protocol": "freedom", "tag": "direct" },
+      { "protocol": "blackhole", "tag": "block" }
+    ],
+    "policy": {
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        { "outboundTag": "direct", "protocol": ["bittorrent"], "type": "field" },
+        {
+          "domain": [
+            "domain:mtalk.google.com",
+            "domain:push.apple.com",
+            "domain:api.push.apple.com",
+            "domain:push-apple.com.akadns.net",
+            "domain:courier.push.apple.com",
+            "domain:mangabuff.ru"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["17.0.0.0/8"], "outboundTag": "direct", "type": "field" },
+        {
+          "domain": [
+            "domain:2ip.ru",
+            "domain:2ip.io",
+            "habr.com",
+            "4pda.to",
+            "4pda.ru",
+            "kemono.su",
+            "jut.su",
+            "kara.su",
+            "theins.ru",
+            "tvrain.ru",
+            "echo.msk.ru",
+            "the-village.ru",
+            "snob.ru",
+            "novayagazeta.ru",
+            "moscowtimes.ru"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "domain": ["geosite:private", "geosite:category-ru", "geosite:category-gov-ru"],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        { "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct", "type": "field" }
+      ]
+    },
+    "stats": {}
   }
-}
+]
