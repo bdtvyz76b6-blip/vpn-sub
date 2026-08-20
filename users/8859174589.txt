@@ -2,7 +2,7 @@
 
 #profile-update-interval: 1
 
-#announce: ‼️ Подписка активна до 23.08.2026 ‼️ __ 🆔 ID: 8859174589
+#announce: ‼️ Подписка активна до 22.09.2026 ‼️ __ 🆔 ID: 8859174589
 
 vless://b9bdc837-4724-4f5c-83db-3de77034b6d7@185.73.126.217:41779?encryption=none&security=reality&sni=buckeye-retail-website.amazon.com&fp=chrome&pbk=NW0vMOD_Lr_fWwxky1Dz0S-_P9f3ssCgVwIX_n3wwEI&sid=584f4c&type=grpc&serviceName=#🇪🇺 EURO
 
