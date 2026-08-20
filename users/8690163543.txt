@@ -4,7 +4,7 @@
 
 #announce: ‼️ Подписка активна до 20.08.2027 ‼️ __ 🆔 ID: 8690163543
 
-vless://5812be10-ba11-51cf-a0f4-ddea7ae15db0@212.67.12.194:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun9-39.userapi.com&fp=firefox&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=08#🇪🇺 Европа (EURO)
+vless://b9bdc837-4724-4f5c-83db-3de77034b6d7@185.73.126.217:41779?encryption=none&security=reality&sni=buckeye-retail-website.amazon.com&fp=chrome&pbk=NW0vMOD_Lr_fWwxky1Dz0S-_P9f3ssCgVwIX_n3wwEI&sid=584f4c&type=grpc&serviceName=#🇪🇺 EURO
 
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@nl.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.superbuba.top&fp=firefox&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb#🇳🇱 Нидерланды
 
