@@ -1,5 +1,3 @@
-vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009#🇪🇺 EURO
-
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@nl.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.superbuba.top&fp=firefox&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb#🇳🇱 Нидерланды
 
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇫🇮 Финляндия
@@ -12,14 +10,6 @@ vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@it.superbuba.top:443?encryption=non
 
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@sws.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇨🇭 Швейцария
 
-vless://34c0a4ad-31e6-460e-968a-1aed84c60f91@vks9.cdnstopban.club:443?encryption=none&security=tls&sni=vks9.cdnstopban.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks9.cdnstopban.club&path=/upload/&mode=packet-up#🇪🇺 Fast 4G | xhttp
-
-vless://34c0a4ad-31e6-460e-968a-1aed84c60f91@vks6.cdnstopban.club:443?encryption=none&security=tls&sni=vks6.cdnstopban.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks6.cdnstopban.club&path=/upload/&mode=packet-up#🇩🇪 Германия 4G | xhttp
-
-vless://34c0a4ad-31e6-460e-968a-1aed84c60f91@vks20.cdnstopban.club:443?encryption=none&security=tls&sni=vks20.cdnstopban.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks20.cdnstopban.club&path=/upload/&mode=packet-up#🇳🇱 Нидерланды 4G | xhttp
-
-vless://34c0a4ad-31e6-460e-968a-1aed84c60f91@vks27.cdnneban.club:443?encryption=none&security=tls&sni=vks27.cdnneban.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks27.cdnneban.club&path=/upload/&mode=packet-up#🇪🇺 Европа 4G | xhttp
-
-vless://34c0a4ad-31e6-460e-968a-1aed84c60f91@vks38.cdnneban.club:443?encryption=none&security=tls&sni=vks38.cdnneban.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks38.cdnneban.club&path=/upload/&mode=packet-up#🇪🇺 Европа 4G | xhttp #2
+vless://f5d86c05-fead-4819-b6a2-83b2857fd5de@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=5e1a#🇫🇲 LTE EURO | TCP
 
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Спасибо что выбрали ixxy ❤️
