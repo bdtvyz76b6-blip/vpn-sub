@@ -1,23 +1,10 @@
-#profile-title: ☂️ ixxy vip
+#profile-title: ⛔ ixxy vpn
 
 #profile-update-interval: 1
 
-#announce: ‼️ Подписка активна до 25.08.2026 ‼️ __ 🆔 ID: 8994636173
+#announce: ⛔ Подписка истекла. Продлите подписку в @orelvpntopbot
+🆔 Ваш ID: 8994636173
 
-vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009#🇪🇺 EURO
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#⛔ Подписка истекла 
 
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@nl.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.superbuba.top&fp=firefox&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb#🇳🇱 Нидерланды
-
-vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇫🇮 Финляндия
-
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@germany.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=germany.superbuba.top&fp=firefox&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3#🇩🇪 Германия
-
-hysteria://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@dehys.superbuba.top:443?protocol=tls&sni=dehys.superbuba.top&alpn=h3&fingerprint=firefox&congestion=bbr&insecure=0#🇩🇪 Германия (hysteria)
-
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@it.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=it.superbuba.top&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&sid=4fa44664f6a566d3#🇮🇹 Италия
-
-vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@sws.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇨🇭 Швейцария
-
-vless://97e967da-1d2b-439e-836b-a9d5a90496dc@31.129.42.239:443?encryption=none&security=reality&sni=vk.com&fp=firefox&pbk=KwPeoAnP208rOsWWHSjhPKdpVzvIHpfBUltBHaBCSDs&sid=d9114354&type=grpc&serviceName=grpc8c948083b439&multiMode=true#🇪🇪 Эстония 4G | LTE
-
-vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Спасибо что выбрали ixxy ❤️
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision# Продлите в @orelvpntopbot
