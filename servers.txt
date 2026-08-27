@@ -9,4 +9,5 @@ vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@87.121.86.251:443?encryption=none&f
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@sws.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇨🇭 Швейцария | TCP
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=grpc&serviceName=grpc-reality&multiMode=true#🇪🇺 LTE EURO | gRPC
+
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Спасибо что выбрали ixxy ❤️
