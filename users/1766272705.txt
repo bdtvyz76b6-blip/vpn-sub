@@ -1,17 +1,10 @@
-#profile-title: ☂️ ixxy vip
+#profile-title: ⛔ ixxy vpn
 
 #profile-update-interval: 1
 
-#announce: ‼️ Подписка активна до 27.08.2026 ‼️ __ 🆔 ID: 1766272705
+#announce: ⛔ Подписка истекла. Продлите подписку в @orelvpntopbot
+🆔 Ваш ID: 1766272705
 
-vless://457ebbd7-2059-4288-b7dd-dd3b7628bf45@154.222.9.228:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#🇩🇪 Германия | TCP
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#⛔ Подписка истекла 
 
-vless://457ebbd7-2059-4288-b7dd-dd3b7628bf45@154.222.9.228:443?encryption=none&security=tls&sni=storage.yandex.net&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=storage.yandex.net&path=/upload/&mode=packet-up#🇩🇪 Германия | xhttp
-
-vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇫🇮 Финляндия | TCP
-
-vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@sws.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇨🇭 Швейцария | TCP
-
-vless://f5d86c05-fead-4819-b6a2-83b2857fd5de@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=5e1a#🇫🇲 LTE EURO | TCP
-
-vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Спасибо что выбрали ixxy ❤️
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision# Продлите в @orelvpntopbot
