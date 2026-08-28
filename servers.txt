@@ -6,16 +6,4 @@ vless://a210cb80-f379-44e9-a103-97ba59357a46@xnod16x.artemida.live:443?encryptio
 
 vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=32bd#🇩🇪 Германия | 📡 LTE TCP
 
-vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks18.vmediacdn.club:443?encryption=none&security=tls&sni=vks18.vmediacdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks18.vmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp
-
-vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks32.downloadmediacdn.club:443?encryption=none&security=tls&sni=vks32.downloadmediacdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks32.downloadmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #2
-
-vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks38.downloadmediacdn.club:443?encryption=none&security=tls&sni=vks38.downloadmediacdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks38.downloadmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #3
-
-vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks12.vmediacdn.club:443?encryption=none&security=tls&sni=vks12.vmediacdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks12.vmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #4
-
-vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks22.vmediacdn.club:443?encryption=none&security=tls&sni=vks22.vmediacdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks22.vmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #5
-
-vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks20.vmediacdn.club:443?encryption=none&security=tls&sni=vks20.vmediacdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks20.vmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #6
- 
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Спасибо что выбрали ixxy ❤️
