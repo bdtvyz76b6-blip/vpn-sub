@@ -4,14 +4,24 @@
 
 #announce: ‼️ Подписка активна до 22.09.2026 ‼️ __ 🆔 ID: 8859174589
 
-vless://457ebbd7-2059-4288-b7dd-dd3b7628bf45@154.222.9.228:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#🇩🇪 Германия | TCP
-
-vless://457ebbd7-2059-4288-b7dd-dd3b7628bf45@154.222.9.228:443?encryption=none&security=tls&sni=storage.yandex.net&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=storage.yandex.net&path=/upload/&mode=packet-up#🇩🇪 Германия | xhttp
+vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@nl.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇳🇱 Нидерланды | TCP
 
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇫🇮 Финляндия | TCP
 
-vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@sws.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇨🇭 Швейцария | TCP
+vless://a210cb80-f379-44e9-a103-97ba59357a46@xnod16x.artemida.live:443?encryption=none&security=reality&sni=xnod16x.artemida.live&fp=firefox&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8&type=grpc&serviceName=#🇪🇺 EURO | gRPC
 
-vless://f5d86c05-fead-4819-b6a2-83b2857fd5de@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=5e1a#🇫🇲 LTE EURO | TCP
+vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=32bd#🇩🇪 Германия | 📡 LTE TCP
 
+vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks18.vmediacdn.club:443?encryption=none&security=tls&sni=vks18.vmediacdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks18.vmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp
+
+vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks32.downloadmediacdn.club:443?encryption=none&security=tls&sni=vks32.downloadmediacdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks32.downloadmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #2
+
+vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks38.downloadmediacdn.club:443?encryption=none&security=tls&sni=vks38.downloadmediacdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks38.downloadmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #3
+
+vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks12.vmediacdn.club:443?encryption=none&security=tls&sni=vks12.vmediacdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks12.vmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #4
+
+vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks22.vmediacdn.club:443?encryption=none&security=tls&sni=vks22.vmediacdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks22.vmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #5
+
+vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks20.vmediacdn.club:443?encryption=none&security=tls&sni=vks20.vmediacdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks20.vmediacdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #6
+ 
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Спасибо что выбрали ixxy ❤️
