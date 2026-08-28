@@ -4,6 +4,8 @@ vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=n
 
 vless://a210cb80-f379-44e9-a103-97ba59357a46@xnod16x.artemida.live:443?encryption=none&security=reality&sni=xnod16x.artemida.live&fp=firefox&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8&type=grpc&serviceName=#🇪🇺 EURO | gRPC
 
-vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=32bd#🇩🇪 Германия | 📡 LTE TCP
+vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks7.mvideocdn.club:443?encryption=none&security=tls&sni=vks7.mvideocdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks7.mvideocdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp
+
+vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks8.mvideocdn.club:443?encryption=none&security=tls&sni=vks8.mvideocdn.club&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=vks8.mvideocdn.club&path=/upload/&mode=packet-up#🇪🇺 EURO | 📡 LTE xhttp #2
 
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Спасибо что выбрали ixxy ❤️
