@@ -10,18 +10,10 @@ vless://0d81b209-0722-4b32-9163-542f54ba56ed@66.90.90.20:8443?encryption=none&fl
 
 vless://60e2a548-96aa-4850-a279-1edab743c39b@de1.cnyvpn.com:2053?encryption=none&security=reality&sni=finanzfluss.de&fp=firefox&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&sid=8b71da690c3d5d03&type=grpc&serviceName=remnagrpc#🇪🇺 EURO | gRPC
 
-hysteria://Wjc65DK_3v3h1-DLCfIj956eQUPxo3Qv@89.125.93.199:443?protocol=tls&sni=www.bing.com&alpn=h3&insecure=0&congestion=brutal#🇵🇱 Игровой ⚡️ | hy2
-
 vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks7.mvideocdn.club:443?encryption=none&security=tls&sni=vks7.mvideocdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks7.mvideocdn.club&path=/upload/&mode=packet-up# LTE СЕРВЕРА 👇🏻
 
 vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=32bd#🇩🇪 Германия | 📡 LTE TCP
 
-vless://65acd4d7-0e43-42b1-bd1c-c58c385e6ac2@cdn.recklesscloth.com:443?encryption=none&security=tls&sni=cdn.recklesscloth.com&fp=ios&alpn=h2,http/1.1&type=xhttp&host=cdn.recklesscloth.com&path=/&mode=packet-up#🇩🇪 Германия | 📡 LTE xhttp
-
 vless://f5d86c05-fead-4819-b6a2-83b2857fd5de@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=3b42#🇫🇲 Микронезия | 📡 LTE TCP
-
-vless://1f4f09da-dd26-4c22-ac47-fffadd45d9c0@cdn.yc22.ru:443?encryption=none&security=tls&sni=cdn.yc22.ru&fp=ios&alpn=h2,http/1.1&type=xhttp&host=cdn.yc22.ru&path=/&mode=packet-up#🇸🇪 Швеция | 📡 LTE xhttp
-
-vless://fbb7e422-e426-4b79-a7a1-c7a8de60a0d1@cdn.yc11.ru:443?encryption=none&security=tls&sni=cdn.yc11.ru&fp=ios&alpn=h2,http/1.1&type=xhttp&host=cdn.yc11.ru&path=/&mode=packet-up#🇳🇱 Нидерланды | 📡 LTE xhttp
 
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#Спасибо что выбрали ixxy ❤️
