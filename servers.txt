@@ -28,6 +28,8 @@ vless://80d84ef2-1f1d-4a59-b88f-ec1965589682@by-msq-2.blook.network:443?encrypti
 
 vless://73fadaf4-4669-4345-ba83-34ee8113a676@fr-cdg-1.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr-cdg-1.blook.network&fp=firefox&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&sid=4aeb#🇫🇷 Франция | TCP
 
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@2.59.134.226:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rich-falcon.cdn.cachefleet.com&fp=qq&pbk=1sSmdw90uTiGuitDvp_q8zcXTcHXKQS3IVjA7T1UNiY#🇻🇳 Вьетнам | TCP
+
 vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks7.mvideocdn.club:443?encryption=none&security=tls&sni=vks7.mvideocdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks7.mvideocdn.club&path=/upload/&mode=packet-up# LTE СЕРВЕРА 👇🏻
 
 vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=32bd#🇩🇪 Германия | 📡 LTE TCP
