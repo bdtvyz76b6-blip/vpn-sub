@@ -10,7 +10,7 @@ vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@de.just-cloud.org:443?encryption=no
 
 vless://99e5e9a0-1c6b-4cb0-805d-a810fd47eb15@217.60.183.77:443?encryption=none&security=reality&sni=www.google.com&fp=firefox&pbk=30eHXS9LpzFg443EtLaGLuDFo2QGa4zvLM7WdT-tSiM&sid=35debf0dc757d053&type=grpc&serviceName=grpc#🇩🇪 Германия | gRPC
 
-vless://164f414e-0b1c-4855-8196-a95051cbeb61@lv-rix-1.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv-rix-1.blook.network&fp=firefox&pbk=C4kK4uxh9a5ym0-JmcaTwkUwkB0FTRjSAIlHLTKRHlo&sid=2a0c60fc2559#🇱🇻 Латвия | TCP
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.223.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=public-auth.savesafe.cc&fp=firefox&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&sid=c37c2ae6f6eb0d71#🇬🇧 Великобритания | TCP
 
 vless://c6e7eed6-0dfd-4e07-99c5-c0173f096fd2@trrr-istrr-3-g.blook.network:443?encryption=none&security=reality&sni=trrr-istrr-3-g.blook.network&fp=firefox&pbk=LhsVnjJZaNTqGU0vQCHayqDG3YeB9ejZ8T6f_EKPzVg&sid=0fa5&type=grpc&serviceName=grpc#🇹🇷 Турция | gRPC
 
