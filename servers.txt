@@ -6,7 +6,7 @@ vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=n
 
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@de.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇩🇪 Германия | TCP
 
-vless://0d81b209-0722-4b32-9163-542f54ba56ed@66.90.90.20:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a936d01.noooo.win&fp=firefox#🇩🇪 Германия | TCP | TLS 
+vless://99e5e9a0-1c6b-4cb0-805d-a810fd47eb15@217.60.183.77:443?encryption=none&security=reality&sni=www.google.com&fp=firefox&pbk=30eHXS9LpzFg443EtLaGLuDFo2QGa4zvLM7WdT-tSiM&sid=35debf0dc757d053&type=grpc&serviceName=grpc#🇩🇪 Германия | gRPC
 
 vless://164f414e-0b1c-4855-8196-a95051cbeb61@lv-rix-1.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv-rix-1.blook.network&fp=firefox&pbk=C4kK4uxh9a5ym0-JmcaTwkUwkB0FTRjSAIlHLTKRHlo&sid=2a0c60fc2559#🇱🇻 Латвия | TCP
 
@@ -23,8 +23,6 @@ vless://99b887b0-295f-490b-aa9f-91c68cd4e279@sg-sin-2.blook.network:443?encrypti
 vless://0664697f-1d5c-450d-87cf-5ae3e9f1ec2e@jp-nrt-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-nrt-2.blook.network&fp=firefox&pbk=nOFA5Nv0ZPwpT-TPxlo_OE7I3ViBO1ocUri1m8vM5jU&sid=a630#🇯🇵 Япония | TCP
 
 vless://28cea8d2-7487-498f-824f-f31a997d2c10@md-kiv-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=md-kiv-2.blook.network&fp=firefox&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&sid=421a#🇲🇩 Молдова | TCP
-
-vless://80d84ef2-1f1d-4a59-b88f-ec1965589682@by-msq-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=by-msq-2.blook.network&fp=firefox&pbk=-X1Nwuvw06M7ELxmC_C1aSwqLiwVCSd7xhPQeYnm0AU&sid=aabfbc1fab5e#🇧🇾 Беларусь | TCP
 
 vless://73fadaf4-4669-4345-ba83-34ee8113a676@fr-cdg-1.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr-cdg-1.blook.network&fp=firefox&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&sid=4aeb#🇫🇷 Франция | TCP
 
