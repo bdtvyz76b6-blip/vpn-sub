@@ -2,6 +2,8 @@ vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@nl.just-cloud.org:443?encryption=no
 
 hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@nlreserv.just-cloud.org:443?protocol=tls&sni=nlreserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr&fingerprint=qq#🇳🇱 Нидерланды | hy2
 
+hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@nlreserv.just-cloud.org:443?protocol=tls&sni=nlreserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr&fingerprint=qq#🇳🇱 Нидерланды | hy2 #2
+
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@fin.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇫🇮 Финляндия | TCP
 
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@de.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇩🇪 Германия | TCP
