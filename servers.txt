@@ -1,5 +1,3 @@
-hysteria://6kUFNF-CwvqGjUcgl590t-OM3R29qh5Z@89.125.93.199:443?protocol=tls&sni=www.bing.com&alpn=h3&insecure=0&congestion=brutal#🇵🇱 Самый быстрый ⚡️
-
 vless://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@nl.just-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c#🇳🇱 Нидерланды | TCP
 
 hysteria://d9a3a0a2-3bbf-4c04-9ca6-95c7c8390ae7@nlreserv.just-cloud.org:443?protocol=tls&sni=nlreserv.just-cloud.org&alpn=h3&insecure=0&congestion=bbr&fingerprint=qq#🇳🇱 Нидерланды | hy2
