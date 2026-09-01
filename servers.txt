@@ -10,6 +10,6 @@ vless://73fadaf4-4669-4345-ba83-34ee8113a676@fr-cdg-1.blook.network:443?encrypti
 
 vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks7.mvideocdn.club:443?encryption=none&security=tls&sni=vks7.mvideocdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks7.mvideocdn.club&path=/upload/&mode=packet-up# 𝗟𝗧𝗘 👇🏻
 
-vless://f5d86c05-fead-4819-b6a2-83b2857fd5de@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=3b42#🇫🇲 𝗜𝗫𝗫𝗬 | 𝗟𝗧𝗘
+vless://f5d86c05-fead-4819-b6a2-83b2857fd5de@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=0a7a#🇩🇪 𝗜𝗫𝗫𝗬 | 𝗟𝗧𝗘
 
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 - 𝗼𝗿𝗲𝗹𝘃𝗽𝗻𝘁𝗼𝗽𝗯𝗼𝘁
