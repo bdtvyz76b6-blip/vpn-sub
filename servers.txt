@@ -36,7 +36,7 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@public-auth.savesafe.cc:443?encrypt
 
 vless://143815fd-bc20-4c7a-9e52-b69909329d52@vks7.mvideocdn.club:443?encryption=none&security=tls&sni=vks7.mvideocdn.club&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=vks7.mvideocdn.club&path=/upload/&mode=packet-up# LTE СЕРВЕРА 👇🏻
 
-vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=32bd#🇩🇪 Германия | 📡 LTE TCP
+vless://65acd4d7-0e43-42b1-bd1c-c58c385e6ac2@cdn.recklesscloth.com:443?encryption=none&security=tls&sni=cdn.recklesscloth.com&fp=ios&alpn=h2,http/1.1&type=xhttp&host=cdn.recklesscloth.com&path=/&mode=packet-up#🇩🇪 Германия | 📡 LTE xhttp
 
 vless://f5d86c05-fead-4819-b6a2-83b2857fd5de@wl-1.myfreedom.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=3b42#🇫🇲 Микронезия | 📡 LTE TCP
 
