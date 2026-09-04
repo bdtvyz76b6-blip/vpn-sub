@@ -6,6 +6,6 @@ vless://88281d02-b387-4fe3-918e-26ed331e6d08@2.59.134.226:443?encryption=none&fl
 
 vless://c11b64d6-66dd-4c55-9b57-459cd6469939@media-se.compressor.work:14443?encryption=none&security=tls&sni=media-se.compressor.work&fp=chrome&type=ws&host=media-se.compressor.work&path=/ws#🇷🇺 LTE #1 ⚡️ | ALL
 
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇪🇺 LTE #2 ⚡️ | TELEGRAM
+vless://72e052b2-e8c1-4c2b-884f-f01558b5a68e@conference.liveflow.space:443?encryption=none&security=tls&sni=conference.liveflow.space&fp=firefox&alpn=h2,http/1.1&type=xhttp&host=conference.liveflow.space&path=/api/uploadFile/&mode=packet-up#🇷🇺 LTE #2 ⚡️ | ALL
 
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 - 𝗼𝗿𝗲𝗹𝘃𝗽𝗻𝘁𝗼𝗽𝗯𝗼𝘁
