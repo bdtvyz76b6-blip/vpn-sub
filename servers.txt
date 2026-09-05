@@ -2,7 +2,7 @@ vless://c11b64d6-66dd-0002-9b57-459cd6469939@94.185.83.38:443?encryption=none&fl
 
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.bubahero.com&fp=chrome&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&type=tcp&sid=9c2378562188c3cb#🇵🇱 𝗣𝗼𝗹𝗮𝗻𝗱 | 𝗪𝗜𝗙𝗜
 
-vless://a94ed5e2-3549-489e-b952-bd0a812baa0a@boldheron.download:443?encryption=none&security=reality&sni=localhost&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 | 𝗪𝗜𝗙𝗜
+vless://190fd6c7-0159-446a-a981-bd7115c8ccc5@boldheron.download:443?encryption=none&security=reality&sni=localhost&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 | 𝗪𝗜𝗙𝗜
 
 vless://ed9b29b6-cef4-4621-b60b-f17d131eed87@brightharbor.download:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=localhost&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇫🇮 𝗙𝗶𝗻𝗹𝗮𝗻𝗱 | 𝗪𝗜𝗙𝗜
 
