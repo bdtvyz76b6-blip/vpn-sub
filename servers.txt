@@ -4,9 +4,9 @@ vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?encryption=none
 
 vless://190fd6c7-0159-446a-a981-bd7115c8ccc5@boldheron.download:443?encryption=none&security=reality&sni=localhost&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 | 𝗪𝗜𝗙𝗜
 
-vless://ed9b29b6-cef4-4621-b60b-f17d131eed87@brightharbor.download:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=localhost&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇫🇮 𝗙𝗶𝗻𝗹𝗮𝗻𝗱 | 𝗪𝗜𝗙𝗜
+vless://0439395e-a77e-4b01-82b5-e114db09ff72@brightharbor.download:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=localhost&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇫🇮 𝗙𝗶𝗻𝗹𝗮𝗻𝗱 | 𝗪𝗜𝗙𝗜
 
-vless://ed9b29b6-cef4-4621-b60b-f17d131eed87@calmcedar.download:443?encryption=none&security=reality&sni=localhost&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇮🇹 𝗜𝘁𝗮𝗹𝘆 | 𝗪𝗜𝗙𝗜
+vless://0439395e-a77e-4b01-82b5-e114db09ff72@calmcedar.download:443?encryption=none&security=reality&sni=localhost&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇮🇹 𝗜𝘁𝗮𝗹𝘆 | 𝗪𝗜𝗙𝗜
 
 vless://190fd6c7-0159-446a-a981-bd7115c8ccc5@quietmeadow.download:443?encryption=none&security=reality&sni=localhost&fp=firefox&pbk=RYnbBzo-UTB4nVMymzJ5B6TgYed7DfOc6O5Pr_htYSc&type=tcp&headerType=none#🇬🇧 𝗨𝗻𝗶𝘁𝗲𝗱 𝗞𝗶𝗻𝗴𝗱𝗼𝗺 | 𝗪𝗜𝗙𝗜
 
