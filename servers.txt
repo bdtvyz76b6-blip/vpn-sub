@@ -1,6 +1,10 @@
 [
   {
     "remarks": "🇸🇪 Sweden | WIFI",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -30,10 +34,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇵🇱 Poland | WIFI",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -63,10 +72,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇩🇪 Germany | WIFI",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -94,10 +108,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇫🇮 Finland | WIFI",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -126,10 +145,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇮🇹 Italy | WIFI",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -157,10 +181,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇬🇧 United Kingdom | WIFI",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -188,10 +217,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇷🇺 LTE #1 ⚡️ | ALL",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -224,10 +258,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇷🇺 LTE #2 ⚡️ | ALL",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -258,10 +297,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇷🇺 LTE #3 ⚡️ | ALL",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -292,10 +336,15 @@
           }
         }
       }
-    ]
+    ],
+    "routing": {}
   },
   {
     "remarks": "🇷🇺 LTE #4 ⚡️ | ALL",
+    "dns": {
+      "servers": ["1.1.1.1", "8.8.8.8"]
+    },
+    "inbounds": [],
     "outbounds": [
       {
         "protocol": "vless",
@@ -326,39 +375,7 @@
           }
         }
       }
-    ]
-  },
-  {
-    "remarks": "𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 - 𝗼𝗿𝗲𝗹𝘃𝗽𝗻𝘁𝗼𝗽𝗯𝗼𝘁",
-    "outbounds": [
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "expired.invalid",
-              "port": 443,
-              "users": [
-                {
-                  "id": "00000000-0000-0000-0000-000000000000",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "expired.invalid",
-            "fingerprint": "chrome",
-            "publicKey": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-            "shortId": ""
-          }
-        }
-      }
-    ]
+    ],
+    "routing": {}
   }
 ]
