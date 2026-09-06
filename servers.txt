@@ -1,21 +1,11 @@
+vless://5d4a87fa-16f1-4b65-b217-225a31e36239@50.7.245.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.convert-flow.net&fp=qq&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&type=tcp&sid=00a61d55a07de885#🇪🇺 𝗜𝗫𝗫𝗬 𝗕𝗘𝗦𝗧 | 𝗪𝗜𝗙𝗜
+
 vless://c11b64d6-66dd-0002-9b57-459cd6469939@94.185.83.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9#🇸🇪 𝗦𝘄𝗲𝗱𝗲𝗻 | 𝗪𝗜𝗙𝗜
 
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.bubahero.com&fp=chrome&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&type=tcp&sid=9c2378562188c3cb#🇵🇱 𝗣𝗼𝗹𝗮𝗻𝗱 | 𝗪𝗜𝗙𝗜
 
-vless://190fd6c7-0159-446a-a981-bd7115c8ccc5@boldheron.download:443?encryption=none&security=reality&sni=localhost&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 | 𝗪𝗜𝗙𝗜
-
-vless://0439395e-a77e-4b01-82b5-e114db09ff72@brightharbor.download:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=localhost&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇫🇮 𝗙𝗶𝗻𝗹𝗮𝗻𝗱 | 𝗪𝗜𝗙𝗜
-
-vless://0439395e-a77e-4b01-82b5-e114db09ff72@calmcedar.download:443?encryption=none&security=reality&sni=localhost&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇮🇹 𝗜𝘁𝗮𝗹𝘆 | 𝗪𝗜𝗙𝗜
-
-vless://190fd6c7-0159-446a-a981-bd7115c8ccc5@quietmeadow.download:443?encryption=none&security=reality&sni=localhost&fp=firefox&pbk=RYnbBzo-UTB4nVMymzJ5B6TgYed7DfOc6O5Pr_htYSc&type=tcp&headerType=none#🇬🇧 𝗨𝗻𝗶𝘁𝗲𝗱 𝗞𝗶𝗻𝗴𝗱𝗼𝗺 | 𝗪𝗜𝗙𝗜
-
 vless://c11b64d6-66dd-4c55-9b57-459cd6469939@media-se.compressor.work:14443?encryption=none&security=tls&sni=media-se.compressor.work&fp=chrome&type=ws&host=media-se.compressor.work&path=/ws#🇷🇺 LTE #1 ⚡️ | ALL
 
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?encryption=none&security=reality&sni=id.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇷🇺 LTE #2 ⚡️ | ALL ⚒️🔴
-
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?encryption=none&security=reality&sni=id.vk.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇷🇺 LTE #3 ⚡️ | ALL ⚒️🔴
-
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇷🇺 LTE #4 ⚡️ | ALL ⚒️🔴
+vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@188.72.103.3:443?encryption=none&security=tls&sni=cdnapiv2.streamru8.net&fp=chrome&type=xhttp&host=cdnapiv2.streamru8.net&mode=packet-up&path=%2Fapi%2Fv75%2Fuptodown&alpn=h2,http%2F1.1#🇷🇺 LTE #2 ⚡️ | ALL
 
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 - 𝗼𝗿𝗲𝗹𝘃𝗽𝗻𝘁𝗼𝗽𝗯𝗼𝘁
