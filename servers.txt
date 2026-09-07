@@ -12,4 +12,6 @@ vless://c11b64d6-66dd-4c55-9b57-459cd6469939@media-se.compressor.work:14443?encr
 
 vless://c11b64d6-66dd-4c55-9b57-459cd6469939@media-se.compressor.work:14443?encryption=none&security=tls&sni=media-se.compressor.work&fp=chrome&type=ws&host=media-se.compressor.work&path=%2Fws#🇷🇺 𝐋𝐓𝐄 𝟐 ⚡️ | 𝐀𝐋𝐋
 
+vless://c11b64d6-66dd-4c55-9b57-459cd6469939@media-se.compressor.work:14443?encryption=none&security=tls&sni=media-se.compressor.work&fp=chrome&type=ws&host=media-se.compressor.work&path=%2Fws#🇷🇺 𝐋𝐓𝐄 3 ⚡️ | 𝐀𝐋𝐋
+
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 - 𝐨𝐫𝐞𝐥𝐯𝐩𝐧𝐭𝐨𝐩𝐛𝐨𝐭
