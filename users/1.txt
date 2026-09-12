@@ -1,0 +1,5 @@
+#profile-title: 𝗦𝗨𝗕 - 𝗜𝗫𝗫𝗬 ☂️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0
+#hide-settings: true
+#announce: 🔴 Подписка не активна • Продлите подписку на сайте ixxy VPN
