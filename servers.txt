@@ -4,10 +4,6 @@ vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?encryption=none
 
 vless://3551f72e-16d8-000a-be3e-fa8df56f2cf3@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&type=tcp&sid=1c3e8241a8743df9#🇦🇪 дубᴀй
 
-vless://3551f72e-16d8-48ad-be3e-fa8df56f2cf3@89.18.61.123:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=encodingtool.xyz&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&type=tcp&sid=1c3e8241a8743df9#🇦🇺 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚 | 𝐖𝐈𝐅𝐈
-
-vless://3551f72e-16d8-0004-be3e-fa8df56f2cf3@192.142.12.222:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&type=tcp&sid=1c3e8241a8743df9#🇩🇪 𝐆𝐞𝐫𝐦𝐚𝐧𝐲 | 𝐖𝐈𝐅𝐈
-
 vless://3551f72e-16d8-48ad-be3e-fa8df56f2cf3@media-se.compressor.work:14443?encryption=none&security=tls&sni=media-se.compressor.work&fp=chrome&type=ws&host=media-se.compressor.work&path=%2Fws#🇷🇺 ⲟⳝⲭⲟⲇ ⲩⲗьⲧⲣⲁ 🚀
 
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@185.229.9.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=ZO7C9aMpoVJ6CmkKWUBS20eKe542_tGIc6wZFGB-yjY&type=tcp&sid=b4e5b7cefcd0d47c#🇷🇺 ⲟⳝⲭⲟⲇ ⲩⲗьⲧⲣⲁ 🌙
