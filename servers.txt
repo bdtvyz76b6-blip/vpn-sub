@@ -16,4 +16,6 @@ vless://953358cb-82ba-4296-960d-6d2ec3468f4c@46.182.24.147:443?encryption=none&s
 
 vless://b1319958-a948-4fc9-af4b-90fd722dc691@82.202.179.105:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=lA0NS88gVVkaZf4qA1aYystzmLsZ5SNzszDsC-8DMSM&type=tcp&sid=e351ebf520#🇷🇺 𝐋𝐓𝐄 𝟒 ⚡️ | 𝐀𝐋𝐋
 
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@dostavka.stroymatdv.cc:443?encryption=none&security=tls&sni=dostavka.stroymatdv.cc&fp=edge&type=ws&host=dostavka.stroymatdv.cc&path=%2Fe7ws#🇷🇺 𝐋𝐓𝐄 𝟓 ⚡️ | 𝐀𝐋𝐋
+
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 - 𝐨𝐫𝐞𝐥𝐯𝐩𝐧𝐭𝐨𝐩𝐛𝐨𝐭
