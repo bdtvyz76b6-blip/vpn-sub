@@ -1,3 +1,5 @@
+trojan://10ebeda46afd4c93a6b577771eb7e65d@31.76.2.248:2053?security=reality&sni=support-shield.nvidia.co.uk&fp=firefox&pbk=ooslqlUI79x3TeM8X7sUWKX8VwxUZg6Ioi1lrdvD-UU&sid=3ba33a701c5df8&spx=%2Fb20040bf0677f07&type=tcp&headerType=none#🇺🇸 🚀 НЕЙРОСЕТИ
+
 vless://3551f72e-16d8-0004-be3e-fa8df56f2cf3@192.142.12.222:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none#🇩🇪 ᴦᥱρʍᥲнᥙя
 
 vless://3551f72e-16d8-0002-be3e-fa8df56f2cf3@94.185.83.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&type=tcp&sid=1c3e8241a8743df9#🇸🇪 ɯʙᥱцᥙя
