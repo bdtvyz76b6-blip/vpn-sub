@@ -14,16 +14,4 @@ vless://1852b02c-1828-40eb-81ff-4de3d097cb35@78.159.247.246:443?encryption=none&
 
 vless://aa46b4eb-5c09-487d-811c-11535b23826d@185.241.195.202:8446?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=IGkfedwznP5Qy28l7u5ra1FOgN7Wo1w2qh0UjAoWcTY&sid=2605aa36&type=tcp&headerType=none#🇷🇺 ⲟⳝⲭⲟⲇ ⲩⲗьⲧⲣⲁ 👽
 
-vless://b1224548-aa19-4d09-9ded-51d4d2a74035@cdn.afrofreedom.site:443?encryption=none&security=tls&type=xhttp&host=cdn.afrofreedom.site&sni=cdn.afrofreedom.site&fp=chrome&path=%2Flive%2Fedge&mode=packet-up#%E2%98%82%EF%B8%8F%20ixxy
-
-vless://b1224548-aa19-4d09-9ded-51d4d2a74035@cdn.afrofreedom.site:443?encryption=none&security=tls&type=xhttp&host=cdn.afrofreedom.site&sni=cdn.afrofreedom.site&fp=chrome&path=%2Fapi%2Fv4%2Fprobe&mode=auto#%E2%98%82%EF%B8%8F%20ixxy
-
-vless://b1224548-aa19-4d09-9ded-51d4d2a74035@cdn.afrofreedom.site:443?encryption=none&security=tls&type=xhttp&host=cdn.afrofreedom.site&sni=cdn.afrofreedom.site&fp=chrome&path=%2Fworker%2Ftask&mode=auto#%E2%98%82%EF%B8%8F%20ixxy
-
-vless://ef92302d-9dec-4c45-bdda-665673d286c0@vks23.nodecdn.pro:443?encryption=none&security=tls&type=xhttp&host=vks23.nodecdn.pro&sni=vks23.nodecdn.pro&fp=chrome&path=%2Fupload%2F&mode=packet-up#%E2%98%82%EF%B8%8F%20ixxy
-
-vless://ef92302d-9dec-4c45-bdda-665673d286c0@vks16.nodecdn.pro:443?encryption=none&security=tls&type=xhttp&host=vks16.nodecdn.pro&sni=vks16.nodecdn.pro&fp=firefox&path=%2Fupload%2F&mode=packet-up#%E2%98%82%EF%B8%8F%20ixxy
-
-vless://ef92302d-9dec-4c45-bdda-665673d286c0@vks19.nodecdn.pro:443?encryption=none&security=tls&type=xhttp&host=vks19.nodecdn.pro&sni=vks19.nodecdn.pro&fp=firefox&path=%2Fupload%2F&mode=packet-up#%E2%98%82%EF%B8%8F%20ixxy
-
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=reality&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 - 𝐨𝐫𝐞𝐥𝐯𝐩𝐧𝐭𝐨𝐩𝐛𝐨𝐭
