@@ -4,14 +4,447 @@
 #profile-web-page-url: https://t.me/orelvpntopbot
 #announce: 🛜 Сервера WiFi. Обходы Б/С только в платной версии 📶.
 
-vless://2eacd403-68af-4e92-a57b-0a887a213f3b@189.74.117.4:443?security=reality&flow=xtls-rprx-vision&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Wi-Fi%20%7C%20%E2%84%961%20%F0%9F%A6%85
-
-vless://2eacd403-68af-4e92-a57b-0a887a213f3b@189.74.118.2:443?security=reality&flow=xtls-rprx-vision&sni=api.yandex-developer.org&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Wi-Fi%20%7C%20%E2%84%962%20%F0%9F%A6%85
-
-vless://2eacd403-68af-4e92-a57b-0a887a213f3b@189.74.116.5:443?security=reality&flow=xtls-rprx-vision&sni=api.yandex-dev.com&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Wi-Fi%20%7C%20%E2%84%963%20%F0%9F%A6%85
-
-vless://c27b7e48-eefe-4833-8671-2d0a281387cf@217.60.34.120:1337?security=reality&flow=xtls-rprx-vision&sni=nider2.xanka.best&fp=firefox&pbk=zBW_LgbS9MYBIBGKPD1SzQVdTXcFpQNHhN0ievOqvEQ&sid=5aa3430e&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Wi-Fi%20%7C%20%E2%84%964%20%F0%9F%A6%85
-
-vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.212:448?security=reality&sni=www.samsung.com&fp=firefox&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&sid=9e96f30390d6be81&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Wi-Fi%20%7C%20%E2%84%965%20%F0%9F%A6%85
-
-vless://dde3978f-3179-4611-86f2-eb1eab0007cc@89.125.124.104:1337?security=reality&flow=xtls-rprx-vision&sni=eng.xanka.best&fp=firefox&pbk=MKoeqrRMeryTxhSbcrPmoMZKKtd9268vwsiZ22w2Gig&sid=be901ea3&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20Wi-Fi%20%7C%20%E2%84%966%20%F0%9F%A6%85
+{
+  "burstObservatory" : {
+    "pingConfig" : {
+      "destination" : "https:\/\/www.gstatic.com\/generate_204",
+      "interval" : "30s",
+      "sampling" : 3,
+      "timeout" : "5s"
+    },
+    "subjectSelector" : [
+      "proxy-1",
+      "proxy-2",
+      "proxy-3",
+      "proxy-4",
+      "proxy-5",
+      "proxy-6",
+      "proxy-7",
+      "proxy-8"
+    ]
+  },
+  "dns" : {
+    "hosts" : {
+      "ntc.party" : "130.255.77.28"
+    },
+    "queryStrategy" : "UseIPv4",
+    "servers" : [
+      {
+        "address" : "77.88.8.8",
+        "domains" : [
+          "geosite:category-ru",
+          "geosite:private"
+        ],
+        "timeout" : 600,
+        "unexpectedIPs" : [
+          "geoip:private"
+        ]
+      },
+      "1.1.1.1",
+      "1.0.0.1"
+    ]
+  },
+  "inbounds" : [
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10808,
+      "protocol" : "socks",
+      "settings" : {
+        "auth" : "noauth",
+        "udp" : true
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "socks"
+    },
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10809,
+      "protocol" : "http",
+      "settings" : {
+        "allowTransparent" : false,
+        "auth" : "noauth"
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "http"
+    }
+  ],
+  "log" : {
+    "access" : "\/private\/var\/mobile\/Containers\/Shared\/AppGroup\/544AFF36-54CF-4DC5-9967-2A01F79FE6CB\/Library\/Application Support\/Xray\/logs\/access.log",
+    "dnsLog" : true,
+    "error" : "\/private\/var\/mobile\/Containers\/Shared\/AppGroup\/544AFF36-54CF-4DC5-9967-2A01F79FE6CB\/Library\/Application Support\/Xray\/logs\/connectionLogs\/2026-09-17_20-33-18.log",
+    "loglevel" : "Warning"
+  },
+  "outbounds" : [
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "81.94.148.199",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "51238fe2-dc61-45cd-b3a6-ebb212c6c7c8"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "qq",
+          "publicKey" : "uTtaQ2ukMIbjoqBEZY97u8JtwsMKshUO8HTPMdlJ2Ro",
+          "serverName" : "msk.cdnvideo.work"
+        },
+        "security" : "reality"
+      },
+      "tag" : "proxy-1"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "81.94.148.8",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "51238fe2-dc61-45cd-b3a6-ebb212c6c7c8"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "qq",
+          "publicKey" : "uTtaQ2ukMIbjoqBEZY97u8JtwsMKshUO8HTPMdlJ2Ro",
+          "serverName" : "msk.cdnvideo.work"
+        },
+        "security" : "reality"
+      },
+      "tag" : "proxy-2"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "78.159.245.161",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "51238fe2-dc61-45cd-b3a6-ebb212c6c7c8"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "qq",
+          "publicKey" : "uTtaQ2ukMIbjoqBEZY97u8JtwsMKshUO8HTPMdlJ2Ro",
+          "serverName" : "msk.cdnvideo.work"
+        },
+        "security" : "reality"
+      },
+      "tag" : "proxy-3"
+    },
+    {
+      "mux" : {
+        "concurrency" : 8,
+        "enabled" : true,
+        "xudpConcurrency" : 16,
+        "xudpProxyUDP443" : "reject"
+      },
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "2.27.122.221",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "id" : "dcec1f6d-0584-48ee-9e67-c2e16f23904a",
+                "level" : 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "chrome",
+          "publicKey" : "YuFm9PUkI61urw2Uzk_bulQJdblxqxebBafwKHW-8TE",
+          "serverName" : "www.nvidia.com",
+          "shortId" : "b484941b4767eb",
+          "spiderX" : ""
+        },
+        "security" : "reality",
+        "sockopt" : {
+          "tcpKeepAliveIdle" : 100,
+          "tcpNoDelay" : true
+        }
+      },
+      "tag" : "proxy-4"
+    },
+    {
+      "mux" : {
+        "concurrency" : 8,
+        "enabled" : true,
+        "xudpConcurrency" : 16,
+        "xudpProxyUDP443" : "reject"
+      },
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "135.106.178.226",
+            "port" : 2087,
+            "users" : [
+              {
+                "encryption" : "none",
+                "id" : "b091731e-bf7d-4c77-86c1-64fb9219a44f",
+                "level" : 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "ws",
+        "security" : "none",
+        "wsSettings" : {
+          "headers" : {
+            "Host" : "135.106.178.226"
+          },
+          "path" : "\/ws"
+        }
+      },
+      "tag" : "proxy-5"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "217.60.14.91",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "b2f2c774-2d57-4a8c-a530-b6f7e3a58596",
+                "level" : 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "edge",
+          "publicKey" : "yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So",
+          "serverName" : "bol.com",
+          "shortId" : "9e5a335de26d1f5a",
+          "spiderX" : ""
+        },
+        "security" : "reality",
+        "sockopt" : {
+          "tcpKeepAliveIdle" : 100,
+          "tcpNoDelay" : true
+        }
+      },
+      "tag" : "proxy-6"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "217.60.14.91",
+            "port" : 2053,
+            "users" : [
+              {
+                "encryption" : "none",
+                "id" : "b2f2c774-2d57-4a8c-a530-b6f7e3a58596",
+                "level" : 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "xhttp",
+        "realitySettings" : {
+          "fingerprint" : "edge",
+          "publicKey" : "yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So",
+          "serverName" : "bol.com",
+          "shortId" : "9e5a335de26d1f5a",
+          "spiderX" : ""
+        },
+        "security" : "reality",
+        "xhttpSettings" : {
+          "mode" : "stream-one",
+          "path" : "\/media-cdn\/segments"
+        }
+      },
+      "tag" : "proxy-7"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "5.182.208.243",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "51238fe2-dc61-45cd-b3a6-ebb212c6c7c8",
+                "level" : 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "qq",
+          "publicKey" : "FSLRIhdm936JanF1pshNXPKPSnuw29RMpeAHN60QcWE",
+          "serverName" : "wtf.pidoras-dns.xyz",
+          "shortId" : "",
+          "spiderX" : ""
+        },
+        "security" : "reality",
+        "sockopt" : {
+          "tcpKeepAliveIdle" : 100,
+          "tcpNoDelay" : true
+        }
+      },
+      "tag" : "proxy-8"
+    },
+    {
+      "protocol" : "freedom",
+      "tag" : "direct"
+    },
+    {
+      "protocol" : "blackhole",
+      "tag" : "block"
+    }
+  ],
+  "remarks" : "🇪🇺 АВТО ⚡",
+  "routing" : {
+    "balancers" : [
+      {
+        "fallbackTag" : "direct",
+        "selector" : [
+          "proxy-1",
+          "proxy-2",
+          "proxy-3",
+          "proxy-4",
+          "proxy-5",
+          "proxy-6",
+          "proxy-7",
+          "proxy-8"
+        ],
+        "strategy" : {
+          "settings" : {
+            "baselines" : [
+              "1s"
+            ],
+            "expected" : 1,
+            "maxRTT" : "3s",
+            "tolerance" : 0.10000000000000001
+          },
+          "type" : "leastLoad"
+        },
+        "tag" : "Super_Balancer"
+      }
+    ],
+    "domainMatcher" : "hybrid",
+    "domainStrategy" : "IPIfNonMatch",
+    "rules" : [
+      {
+        "outboundTag" : "direct",
+        "protocol" : [
+          "bittorrent"
+        ],
+        "type" : "field"
+      },
+      {
+        "domain" : [
+          "domain:oneme.ru",
+          "domain:max.ru"
+        ],
+        "outboundTag" : "block",
+        "type" : "field"
+      },
+      {
+        "ip" : [
+          "geoip:private"
+        ],
+        "outboundTag" : "direct",
+        "type" : "field"
+      },
+      {
+        "domain" : [
+          "geosite:private"
+        ],
+        "outboundTag" : "direct",
+        "type" : "field"
+      },
+      {
+        "domain" : [
+          "regexp:(^|\\.)ru$",
+          "regexp:(^|\\.)xn--p1ai$",
+          "regexp:(^|\\.)su$",
+          "domain:2gis.ru",
+          "domain:2gis.com",
+          "domain:dgis.ru",
+          "domain:maps.2gis.com",
+          "domain:static.maps.2gis.com",
+          "regexp:(^|\\.)2gis\\.ru$",
+          "regexp:(^|\\.)2gis\\.com$"
+        ],
+        "outboundTag" : "direct",
+        "type" : "field"
+      },
+      {
+        "balancerTag" : "Super_Balancer",
+        "network" : "tcp,udp",
+        "type" : "field"
+      }
+    ]
+  }
+}
