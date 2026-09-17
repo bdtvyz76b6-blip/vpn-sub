@@ -18,4 +18,6 @@ vless://51238fe2-dc61-45cd-b3a6-ebb212c6c7c8@81.94.148.8:443?encryption=none&flo
 
 vless://51238fe2-dc61-45cd-b3a6-ebb212c6c7c8@78.159.245.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=msk.cdnvideo.work&fp=qq&pbk=uTtaQ2ukMIbjoqBEZY97u8JtwsMKshUO8HTPMdlJ2Ro&type=tcp#🇨🇭 Обход глушилок #3?serverDescription=При%20глушилках
 
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@217.19.122.165:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=BSDNHw3umyh5IiFoqdCs_a4YF8Imr_2e0PWvVIKa3FQ&sid=155374bc2054ec79&type=tcp#🇷🇺 Обход глушилок #4?serverDescription=При%20глушилках
+
 vless://00000000-0000-0000-0000-000000000000@expired.invalid:443?type=tcp&security=ixxy&sni=expired.invalid&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=&flow=xtls-rprx-vision#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 - 𝐨𝐫𝐞𝐥𝐯𝐩𝐧𝐭𝐨𝐩𝐛𝐨𝐭
