@@ -1,3 +1,10 @@
+#profile-title: ☂️ ixxyfree 🚀
+#profile-update-interval: 1
+#subscription-userinfo: expire=3077222399
+#announce: ☂️ ixxy free vpn
+#profile-web-page-url: https://t.me/LukirbyVPN
+#support-url: https://t.me/LukirbyVPN
+
 vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@72.56.52.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv.dexlen.cc&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&type=tcp&headerType=none#🇱🇻 Латвия #1
 
 vless://eca1246a-358f-4ad5-be4c-849755ac6f14@201.8.70.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=awRDyczg5ZHMWh9udl31s4lF0F7s2EendNM--F6IC0c&type=tcp&headerType=none#🇺🇸 США #1
