@@ -1,23 +1,28 @@
 #profile-title: ☂️ ixxyFREEEEE
 #profile-update-interval: 1
 #subscription-userinfo: expire=3077222399
-#announce: 20.11.26 обнова
+#announce: 21.11.26 обнова
 #profile-web-page-url: https://t.me/LukirbyVPN
 #support-url: https://t.me/LukirbyVPN
 
-vless://f1091d37-c2a3-44ea-ac54-6e90b8c36307@ns.u2.1kub1.click:2096?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇪🇺 → Европа №1 Free
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@fi1.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi1.lampa-connect.top&fp=firefox&pbk=8TCK9IvMcehZqWJX1TsPNzaFfsvMVlTPI49imbMPMlU&type=tcp&headerType=none#🇫🇮 → Финляндия №1 Free
 
-vless://f1091d37-c2a3-44ea-ac54-6e90b8c36307@ss.u2.1kub1.click:2096?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇪🇺 → Европа №2 Free
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@de1.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de1.lampa-connect.top&fp=firefox&pbk=3kWRXp8jcj6OnIqtr9BdKG39udW8icKNdvZyN8J0DGo&sid=e104ee28c9e14fd5&type=tcp&headerType=none#🇩🇪 → Германия №1 Free
 
-vless://f1091d37-c2a3-44ea-ac54-6e90b8c36307@bs.u2.1kub1.click:2096?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇪🇺 → Европа №3 Free
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@nl2.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl2.lampa-connect.top&fp=firefox&pbk=8TCK9IvMcehZqWJX1TsPNzaFfsvMVlTPI49imbMPMlU&type=tcp&headerType=none#🇳🇱 → Нидерланды №1 Free
 
-vless://f1091d37-c2a3-44ea-ac54-6e90b8c36307@ss.u2.1kub1.click:2096?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇪🇺 → Европа Запасной №1 Free
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@nl1.lampa-connect.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl1.lampa-connect.top&fp=firefox&pbk=8TCK9IvMcehZqWJX1TsPNzaFfsvMVlTPI49imbMPMlU&type=tcp&headerType=none#🇳🇱 → Нидерланды №2 Free
 
-vless://f1091d37-c2a3-44ea-ac54-6e90b8c36307@ns.u2.1kub1.click:2096?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇪🇺 → Европа Запасной №2 Free
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@ee1.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ee1.lampa-connect.top&fp=firefox&pbk=8TCK9IvMcehZqWJX1TsPNzaFfsvMVlTPI49imbMPMlU&type=tcp&headerType=none#🇪🇪 → Эстония №1 Free
 
-vless://f1091d37-c2a3-44ea-ac54-6e90b8c36307@bs.u2.1kub1.click:2096?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇪🇺 → Европа Запасной №3 Free
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@cz1.lampa-connect.top:8443?encryption=none&security=reality&sni=cz1.lampa-connect.top&fp=firefox&pbk=lGveed8pZyvUlRFN6i8BRV3UJ6CGZ8Bqwj8H9zEtKAQ&sid=a1b2c3d4&type=xhttp&path=/download&mode=auto#🇨🇿 → Чехия №1 Free
 
-vless://f1091d37-c2a3-44ea-ac54-6e90b8c36307@us.u2.1kub1.click:2096?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇺🇸 → США №1 Free
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@ro.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ro.lampa-connect.top&fp=chrome&pbk=8TCK9IvMcehZqWJX1TsPNzaFfsvMVlTPI49imbMPMlU&type=tcp&headerType=none#🇷🇴 → Румыния №1 Free
 
-vless://f1091d37-c2a3-44ea-ac54-6e90b8c36307@bs.u2.1kub1.click:2096?encryption=none&security=reality&sni=id.vk.com&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality#🇺🇸 → США №2 Free
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@lv.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv.lampa-connect.top&fp=firefox&pbk=3kWRXp8jcj6OnIqtr9BdKG39udW8icKNdvZyN8J0DGo&sid=e104ee28c9e14fd5&type=tcp&headerType=none#🇱🇻 → Латвия №1 Free
 
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@us1.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us1.lampa-connect.top&fp=firefox&pbk=3kWRXp8jcj6OnIqtr9BdKG39udW8icKNdvZyN8J0DGo&sid=e104ee28c9e14fd5&type=tcp&headerType=none#🇺🇸 → США №1 Free
+
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@lt.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lt.lampa-connect.top&fp=firefox&pbk=3kWRXp8jcj6OnIqtr9BdKG39udW8icKNdvZyN8J0DGo&sid=e104ee28c9e14fd5&type=tcp&headerType=none#🇱🇹 → Литва №1 Free
+
+vless://e956bf31-a5ec-4e40-94d9-ac07dfefd5dc@tr.lampa-connect.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.lampa-connect.top&fp=firefox&pbk=3kWRXp8jcj6OnIqtr9BdKG39udW8icKNdvZyN8J0DGo&sid=e104ee28c9e14fd5&type=tcp&headerType=none#🇹🇷 → Турция №1 Free
